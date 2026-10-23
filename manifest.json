@@ -1,1602 +1,1610 @@
 [
   {
-    "collection": "giorgio",
-    "sku": "RGI 1001-1",
-    "sourceName": "RGI 1001-1.jpg",
-    "outputName": "RGI-1001-1.jpg",
-    "bytes": 495381,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-1.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-2",
-    "sourceName": "RGI 1001-2.jpg",
-    "outputName": "RGI-1001-2.jpg",
-    "bytes": 729545,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-2.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-3",
-    "sourceName": "RGI 1001-3.jpg",
-    "outputName": "RGI-1001-3.jpg",
-    "bytes": 784354,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-3.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-4",
-    "sourceName": "RGI 1001-4.jpg",
-    "outputName": "RGI-1001-4.jpg",
-    "bytes": 831991,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-4.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-5",
-    "sourceName": "RGI 1001-5.jpg",
-    "outputName": "RGI-1001-5.jpg",
-    "bytes": 832301,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-5.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-6",
-    "sourceName": "RGI 1001-6.jpg",
-    "outputName": "RGI-1001-6.jpg",
-    "bytes": 846108,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-6.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-7",
-    "sourceName": "RGI 1001-7.jpg",
-    "outputName": "RGI-1001-7.jpg",
-    "bytes": 792828,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-7.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-8",
-    "sourceName": "RGI 1001-8.jpg",
-    "outputName": "RGI-1001-8.jpg",
-    "bytes": 958411,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-8.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1001-9",
-    "sourceName": "RGI 1001-9.jpg",
-    "outputName": "RGI-1001-9.jpg",
-    "bytes": 888080,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1001-9.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1002-1",
-    "sourceName": "RGI 1002-1.jpg",
-    "outputName": "RGI-1002-1.jpg",
-    "bytes": 771357,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-1.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1002-2",
-    "sourceName": "RGI 1002-2.jpg",
-    "outputName": "RGI-1002-2.jpg",
-    "bytes": 1123791,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-2.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1002-3",
-    "sourceName": "RGI 1002-3.jpg",
-    "outputName": "RGI-1002-3.jpg",
-    "bytes": 1421153,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-3.jpg"
-  },
-  {
-    "collection": "giorgio",
-    "sku": "RGI 1002-4",
-    "sourceName": "RGI 1002-4.jpg",
-    "outputName": "RGI-1002-4.jpg",
-    "bytes": 1404780,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-4.jpg"
+    "collection": "bocca",
+    "sku": "54486-1",
+    "sourceName": "54486-1.jpg",
+    "outputName": "54486-1.jpg",
+    "bytes": 1416244,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-1.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54486-2",
+    "sourceName": "54486-2.jpg",
+    "outputName": "54486-2.jpg",
+    "bytes": 1637675,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-2.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54486-3",
+    "sourceName": "54486-3.jpg",
+    "outputName": "54486-3.jpg",
+    "bytes": 1685160,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-3.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54486-4",
+    "sourceName": "54486-4.jpg",
+    "outputName": "54486-4.jpg",
+    "bytes": 1656789,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-4.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54486-5",
+    "sourceName": "54486-5.jpg",
+    "outputName": "54486-5.jpg",
+    "bytes": 1612899,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-5.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54486-6",
+    "sourceName": "54486-6.jpg",
+    "outputName": "54486-6.jpg",
+    "bytes": 1837004,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-6.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54487-1",
+    "sourceName": "54487-1.jpg",
+    "outputName": "54487-1.jpg",
+    "bytes": 1431049,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-1.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54487-2",
+    "sourceName": "54487-2.jpg",
+    "outputName": "54487-2.jpg",
+    "bytes": 361906,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-2.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54487-3",
+    "sourceName": "54487-3.jpg",
+    "outputName": "54487-3.jpg",
+    "bytes": 1824361,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-3.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54487-4",
+    "sourceName": "54487-4.jpg",
+    "outputName": "54487-4.jpg",
+    "bytes": 546032,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-4.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54488-1",
+    "sourceName": "54488-1.jpg",
+    "outputName": "54488-1.jpg",
+    "bytes": 1357598,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-1.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54488-2",
+    "sourceName": "54488-2.jpg",
+    "outputName": "54488-2.jpg",
+    "bytes": 1741078,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-2.jpg"
+  },
+  {
+    "collection": "bocca",
+    "sku": "54488-3",
+    "sourceName": "54488-3.jpg",
+    "outputName": "54488-3.jpg",
+    "bytes": 1856572,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-5",
-    "sourceName": "RGI 1002-5.jpg",
-    "outputName": "RGI-1002-5.jpg",
-    "bytes": 1079729,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-5.jpg"
+    "collection": "bocca",
+    "sku": "54488-4",
+    "sourceName": "54488-4.jpg",
+    "outputName": "54488-4.jpg",
+    "bytes": 1699213,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-6",
-    "sourceName": "RGI 1002-6.jpg",
-    "outputName": "RGI-1002-6.jpg",
-    "bytes": 1244872,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-6.jpg"
+    "collection": "bocca",
+    "sku": "54488-5",
+    "sourceName": "54488-5.jpg",
+    "outputName": "54488-5.jpg",
+    "bytes": 1749083,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-7",
-    "sourceName": "RGI 1002-7.jpg",
-    "outputName": "RGI-1002-7.jpg",
-    "bytes": 1400832,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-7.jpg"
+    "collection": "bocca",
+    "sku": "54488-6",
+    "sourceName": "54488-6.jpg",
+    "outputName": "54488-6.jpg",
+    "bytes": 1934608,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-8",
-    "sourceName": "RGI 1002-8.jpg",
-    "outputName": "RGI-1002-8.jpg",
-    "bytes": 1169474,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-8.jpg"
+    "collection": "bocca",
+    "sku": "54488-7",
+    "sourceName": "54488-7.jpg",
+    "outputName": "54488-7.jpg",
+    "bytes": 1753291,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-9",
-    "sourceName": "RGI 1002-9.jpg",
-    "outputName": "RGI-1002-9.jpg",
-    "bytes": 1289728,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-9.jpg"
+    "collection": "bocca",
+    "sku": "54488-8",
+    "sourceName": "54488-8.jpg",
+    "outputName": "54488-8.jpg",
+    "bytes": 1920634,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-8.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-10",
-    "sourceName": "RGI 1002-10.jpg",
-    "outputName": "RGI-1002-10.jpg",
-    "bytes": 1210677,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-10.jpg"
+    "collection": "bocca",
+    "sku": "54488-9",
+    "sourceName": "54488-9.jpg",
+    "outputName": "54488-9.jpg",
+    "bytes": 1824717,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-9.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-11",
-    "sourceName": "RGI 1002-11.jpg",
-    "outputName": "RGI-1002-11.jpg",
-    "bytes": 1444134,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-11.jpg"
+    "collection": "bocca",
+    "sku": "54488-10",
+    "sourceName": "54488-10.jpg",
+    "outputName": "54488-10.jpg",
+    "bytes": 1873433,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-10.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-12",
-    "sourceName": "RGI 1002-12.jpg",
-    "outputName": "RGI-1002-12.jpg",
-    "bytes": 1111973,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-12.jpg"
+    "collection": "bocca",
+    "sku": "54488-11",
+    "sourceName": "54488-11.jpg",
+    "outputName": "54488-11.jpg",
+    "bytes": 1961778,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-11.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-13",
-    "sourceName": "RGI 1002-13.jpg",
-    "outputName": "RGI-1002-13.jpg",
-    "bytes": 1292927,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-13.jpg"
+    "collection": "bocca",
+    "sku": "54488-12",
+    "sourceName": "54488-12.jpg",
+    "outputName": "54488-12.jpg",
+    "bytes": 343631,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-12.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-14",
-    "sourceName": "RGI 1002-14.jpg",
-    "outputName": "RGI-1002-14.jpg",
-    "bytes": 1501336,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-14.jpg"
+    "collection": "bocca",
+    "sku": "54488-13",
+    "sourceName": "54488-13.jpg",
+    "outputName": "54488-13.jpg",
+    "bytes": 1894283,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-13.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1002-15",
-    "sourceName": "RGI 1002-15.jpg",
-    "outputName": "RGI-1002-15.jpg",
-    "bytes": 1403228,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1002-15.jpg"
+    "collection": "bocca",
+    "sku": "54488-14",
+    "sourceName": "54488-14.jpg",
+    "outputName": "54488-14.jpg",
+    "bytes": 1941895,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-14.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-1",
-    "sourceName": "RGI 1003-1.jpg",
-    "outputName": "RGI-1003-1.jpg",
-    "bytes": 505380,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-1.jpg"
+    "collection": "bocca",
+    "sku": "54488-15",
+    "sourceName": "54488-15.jpg",
+    "outputName": "54488-15.jpg",
+    "bytes": 1444769,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-15.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-2",
-    "sourceName": "RGI 1003-2.jpg",
-    "outputName": "RGI-1003-2.jpg",
-    "bytes": 605012,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-2.jpg"
+    "collection": "bocca",
+    "sku": "54488-16",
+    "sourceName": "54488-16.jpg",
+    "outputName": "54488-16.jpg",
+    "bytes": 1929531,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-16.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-3",
-    "sourceName": "RGI 1003-3.jpg",
-    "outputName": "RGI-1003-3.jpg",
-    "bytes": 697756,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-3.jpg"
+    "collection": "bocca",
+    "sku": "54488-17",
+    "sourceName": "54488-17.jpg",
+    "outputName": "54488-17.jpg",
+    "bytes": 1915580,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-17.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-4",
-    "sourceName": "RGI 1003-4.jpg",
-    "outputName": "RGI-1003-4.jpg",
-    "bytes": 760885,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-4.jpg"
+    "collection": "bocca",
+    "sku": "54489-1",
+    "sourceName": "54489-1.jpg",
+    "outputName": "54489-1.jpg",
+    "bytes": 540460,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-5",
-    "sourceName": "RGI 1003-5.jpg",
-    "outputName": "RGI-1003-5.jpg",
-    "bytes": 798018,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-5.jpg"
+    "collection": "bocca",
+    "sku": "54489-2",
+    "sourceName": "54489-2.jpg",
+    "outputName": "54489-2.jpg",
+    "bytes": 747353,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1003-6",
-    "sourceName": "RGI 1003-6.jpg",
-    "outputName": "RGI-1003-6.jpg",
-    "bytes": 908336,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1003-6.jpg"
+    "collection": "bocca",
+    "sku": "54489-3",
+    "sourceName": "54489-3.jpg",
+    "outputName": "54489-3.jpg",
+    "bytes": 717216,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-1",
-    "sourceName": "RGI 1004-1.jpg",
-    "outputName": "RGI-1004-1.jpg",
-    "bytes": 1045927,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-1.jpg"
+    "collection": "bocca",
+    "sku": "54489-4",
+    "sourceName": "54489-4.jpg",
+    "outputName": "54489-4.jpg",
+    "bytes": 1327674,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-2",
-    "sourceName": "RGI 1004-2.jpg",
-    "outputName": "RGI-1004-2.jpg",
-    "bytes": 1403303,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-2.jpg"
+    "collection": "bocca",
+    "sku": "54489-5",
+    "sourceName": "54489-5.jpg",
+    "outputName": "54489-5.jpg",
+    "bytes": 460605,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-3",
-    "sourceName": "RGI 1004-3.jpg",
-    "outputName": "RGI-1004-3.jpg",
-    "bytes": 1688610,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-3.jpg"
+    "collection": "bocca",
+    "sku": "54489-6",
+    "sourceName": "54489-6.jpg",
+    "outputName": "54489-6.jpg",
+    "bytes": 1347403,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-4",
-    "sourceName": "RGI 1004-4.jpg",
-    "outputName": "RGI-1004-4.jpg",
-    "bytes": 1301267,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-4.jpg"
+    "collection": "bocca",
+    "sku": "54489-7",
+    "sourceName": "54489-7.jpg",
+    "outputName": "54489-7.jpg",
+    "bytes": 527378,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-5",
-    "sourceName": "RGI 1004-5.jpg",
-    "outputName": "RGI-1004-5.jpg",
-    "bytes": 1522102,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-5.jpg"
+    "collection": "bocca",
+    "sku": "54490-1",
+    "sourceName": "54490-1.jpg",
+    "outputName": "54490-1.jpg",
+    "bytes": 1535402,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-6",
-    "sourceName": "RGI 1004-6.jpg",
-    "outputName": "RGI-1004-6.jpg",
-    "bytes": 1596428,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-6.jpg"
+    "collection": "bocca",
+    "sku": "54490-2",
+    "sourceName": "54490-2.jpg",
+    "outputName": "54490-2.jpg",
+    "bytes": 1989940,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-7",
-    "sourceName": "RGI 1004-7.jpg",
-    "outputName": "RGI-1004-7.jpg",
-    "bytes": 1341221,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-7.jpg"
+    "collection": "bocca",
+    "sku": "54490-3",
+    "sourceName": "54490-3.jpg",
+    "outputName": "54490-3.jpg",
+    "bytes": 1643205,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-8",
-    "sourceName": "RGI 1004-8.jpg",
-    "outputName": "RGI-1004-8.jpg",
-    "bytes": 1556885,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-8.jpg"
+    "collection": "bocca",
+    "sku": "54490-4",
+    "sourceName": "54490-4.jpg",
+    "outputName": "54490-4.jpg",
+    "bytes": 1883309,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-9",
-    "sourceName": "RGI 1004-9.jpg",
-    "outputName": "RGI-1004-9.jpg",
-    "bytes": 1808933,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-9.jpg"
+    "collection": "bocca",
+    "sku": "54490-5",
+    "sourceName": "54490-5.jpg",
+    "outputName": "54490-5.jpg",
+    "bytes": 475261,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-10",
-    "sourceName": "RGI 1004-10.jpg",
-    "outputName": "RGI-1004-10.jpg",
-    "bytes": 1315855,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-10.jpg"
+    "collection": "bocca",
+    "sku": "54490-6",
+    "sourceName": "54490-6.jpg",
+    "outputName": "54490-6.jpg",
+    "bytes": 365426,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-11",
-    "sourceName": "RGI 1004-11.jpg",
-    "outputName": "RGI-1004-11.jpg",
-    "bytes": 1587538,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-11.jpg"
+    "collection": "bocca",
+    "sku": "54490-7",
+    "sourceName": "54490-7.jpg",
+    "outputName": "54490-7.jpg",
+    "bytes": 1784040,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-12",
-    "sourceName": "RGI 1004-12.jpg",
-    "outputName": "RGI-1004-12.jpg",
-    "bytes": 1750349,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-12.jpg"
+    "collection": "bocca",
+    "sku": "54490-8",
+    "sourceName": "54490-8.jpg",
+    "outputName": "54490-8.jpg",
+    "bytes": 1977707,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-8.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-13",
-    "sourceName": "RGI 1004-13.jpg",
-    "outputName": "RGI-1004-13.jpg",
-    "bytes": 1303071,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-13.jpg"
+    "collection": "bocca",
+    "sku": "54490-9",
+    "sourceName": "54490-9.jpg",
+    "outputName": "54490-9.jpg",
+    "bytes": 1668206,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-9.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-14",
-    "sourceName": "RGI 1004-14.jpg",
-    "outputName": "RGI-1004-14.jpg",
-    "bytes": 1680572,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-14.jpg"
+    "collection": "bocca",
+    "sku": "54490-10",
+    "sourceName": "54490-10.jpg",
+    "outputName": "54490-10.jpg",
+    "bytes": 1504655,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-10.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-15",
-    "sourceName": "RGI 1004-15.jpg",
-    "outputName": "RGI-1004-15.jpg",
-    "bytes": 1785493,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-15.jpg"
+    "collection": "bocca",
+    "sku": "54490-11",
+    "sourceName": "54490-11.jpg",
+    "outputName": "54490-11.jpg",
+    "bytes": 1656292,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-11.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-16",
-    "sourceName": "RGI 1004-16.jpg",
-    "outputName": "RGI-1004-16.jpg",
-    "bytes": 1530128,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-16.jpg"
+    "collection": "bocca",
+    "sku": "54490-12",
+    "sourceName": "54490-12.jpg",
+    "outputName": "54490-12.jpg",
+    "bytes": 1412807,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-12.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1004-17",
-    "sourceName": "RGI 1004-17.jpg",
-    "outputName": "RGI-1004-17.jpg",
-    "bytes": 1828087,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1004-17.jpg"
+    "collection": "bocca",
+    "sku": "54490-13",
+    "sourceName": "54490-13.jpg",
+    "outputName": "54490-13.jpg",
+    "bytes": 1641998,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-13.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1005-1",
-    "sourceName": "RGI 1005-1.jpg",
-    "outputName": "RGI-1005-1.jpg",
-    "bytes": 730513,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1005-1.jpg"
+    "collection": "bocca",
+    "sku": "54490-14",
+    "sourceName": "54490-14.jpg",
+    "outputName": "54490-14.jpg",
+    "bytes": 409933,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-14.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1005-2",
-    "sourceName": "RGI 1005-2.jpg",
-    "outputName": "RGI-1005-2.jpg",
-    "bytes": 750434,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1005-2.jpg"
+    "collection": "bocca",
+    "sku": "54491-1",
+    "sourceName": "54491-1.jpg",
+    "outputName": "54491-1.jpg",
+    "bytes": 434707,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1005-3",
-    "sourceName": "RGI 1005-3.jpg",
-    "outputName": "RGI-1005-3.jpg",
-    "bytes": 770860,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1005-3.jpg"
+    "collection": "bocca",
+    "sku": "54491-2",
+    "sourceName": "54491-2.jpg",
+    "outputName": "54491-2.jpg",
+    "bytes": 487417,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1005-4",
-    "sourceName": "RGI 1005-4.jpg",
-    "outputName": "RGI-1005-4.jpg",
-    "bytes": 730024,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1005-4.jpg"
+    "collection": "bocca",
+    "sku": "54491-3",
+    "sourceName": "54491-3.jpg",
+    "outputName": "54491-3.jpg",
+    "bytes": 1572439,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1005-5",
-    "sourceName": "RGI 1005-5.jpg",
-    "outputName": "RGI-1005-5.jpg",
-    "bytes": 717865,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1005-5.jpg"
+    "collection": "bocca",
+    "sku": "54491-4",
+    "sourceName": "54491-4.jpg",
+    "outputName": "54491-4.jpg",
+    "bytes": 610244,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-1",
-    "sourceName": "RGI 1006-1.jpg",
-    "outputName": "RGI-1006-1.jpg",
-    "bytes": 561377,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-1.jpg"
+    "collection": "bocca",
+    "sku": "54491-5",
+    "sourceName": "54491-5.jpg",
+    "outputName": "54491-5.jpg",
+    "bytes": 538111,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-2",
-    "sourceName": "RGI 1006-2.jpg",
-    "outputName": "RGI-1006-2.jpg",
-    "bytes": 698889,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-2.jpg"
+    "collection": "bocca",
+    "sku": "54491-6",
+    "sourceName": "54491-6.jpg",
+    "outputName": "54491-6.jpg",
+    "bytes": 671840,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-3",
-    "sourceName": "RGI 1006-3.jpg",
-    "outputName": "RGI-1006-3.jpg",
-    "bytes": 585673,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-3.jpg"
+    "collection": "bocca",
+    "sku": "54492-1",
+    "sourceName": "54492-1.jpg",
+    "outputName": "54492-1.jpg",
+    "bytes": 1494908,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-4",
-    "sourceName": "RGI 1006-4.jpg",
-    "outputName": "RGI-1006-4.jpg",
-    "bytes": 735526,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-4.jpg"
+    "collection": "bocca",
+    "sku": "54492-2",
+    "sourceName": "54492-2.jpg",
+    "outputName": "54492-2.jpg",
+    "bytes": 1703893,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-5",
-    "sourceName": "RGI 1006-5.jpg",
-    "outputName": "RGI-1006-5.jpg",
-    "bytes": 808505,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-5.jpg"
+    "collection": "bocca",
+    "sku": "54492-3",
+    "sourceName": "54492-3.jpg",
+    "outputName": "54492-3.jpg",
+    "bytes": 1798833,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-6",
-    "sourceName": "RGI 1006-6.jpg",
-    "outputName": "RGI-1006-6.jpg",
-    "bytes": 555523,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-6.jpg"
+    "collection": "bocca",
+    "sku": "54492-4",
+    "sourceName": "54492-4.jpg",
+    "outputName": "54492-4.jpg",
+    "bytes": 460429,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-7",
-    "sourceName": "RGI 1006-7.jpg",
-    "outputName": "RGI-1006-7.jpg",
-    "bytes": 742355,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-7.jpg"
+    "collection": "bocca",
+    "sku": "54492-5",
+    "sourceName": "54492-5.jpg",
+    "outputName": "54492-5.jpg",
+    "bytes": 1729572,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-8",
-    "sourceName": "RGI 1006-8.jpg",
-    "outputName": "RGI-1006-8.jpg",
-    "bytes": 830966,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-8.jpg"
+    "collection": "bocca",
+    "sku": "54492-6",
+    "sourceName": "54492-6.jpg",
+    "outputName": "54492-6.jpg",
+    "bytes": 1416226,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-9",
-    "sourceName": "RGI 1006-9.jpg",
-    "outputName": "RGI-1006-9.jpg",
-    "bytes": 860126,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-9.jpg"
+    "collection": "bocca",
+    "sku": "54492-7",
+    "sourceName": "54492-7.jpg",
+    "outputName": "54492-7.jpg",
+    "bytes": 1831827,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-10",
-    "sourceName": "RGI 1006-10.jpg",
-    "outputName": "RGI-1006-10.jpg",
-    "bytes": 704263,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-10.jpg"
+    "collection": "bocca",
+    "sku": "54492-8",
+    "sourceName": "54492-8.jpg",
+    "outputName": "54492-8.jpg",
+    "bytes": 1742316,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-8.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-11",
-    "sourceName": "RGI 1006-11.jpg",
-    "outputName": "RGI-1006-11.jpg",
-    "bytes": 771912,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-11.jpg"
+    "collection": "bocca",
+    "sku": "54492-9",
+    "sourceName": "54492-9.jpg",
+    "outputName": "54492-9.jpg",
+    "bytes": 1770165,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-9.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-12",
-    "sourceName": "RGI 1006-12.jpg",
-    "outputName": "RGI-1006-12.jpg",
-    "bytes": 662665,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-12.jpg"
+    "collection": "bocca",
+    "sku": "54492-10",
+    "sourceName": "54492-10.jpg",
+    "outputName": "54492-10.jpg",
+    "bytes": 410674,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-10.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1006-13",
-    "sourceName": "RGI 1006-13.jpg",
-    "outputName": "RGI-1006-13.jpg",
-    "bytes": 803138,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1006-13.jpg"
+    "collection": "bocca",
+    "sku": "54492-11",
+    "sourceName": "54492-11.jpg",
+    "outputName": "54492-11.jpg",
+    "bytes": 1892095,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-11.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1007-1",
-    "sourceName": "RGI 1007-1.jpg",
-    "outputName": "RGI-1007-1.jpg",
-    "bytes": 595100,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1007-1.jpg"
+    "collection": "bocca",
+    "sku": "54492-12",
+    "sourceName": "54492-12.jpg",
+    "outputName": "54492-12.jpg",
+    "bytes": 1861756,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-12.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1007-2",
-    "sourceName": "RGI 1007-2.jpg",
-    "outputName": "RGI-1007-2.jpg",
-    "bytes": 672470,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1007-2.jpg"
+    "collection": "bocca",
+    "sku": "54492-13",
+    "sourceName": "54492-13.jpg",
+    "outputName": "54492-13.jpg",
+    "bytes": 1911559,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-13.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1007-3",
-    "sourceName": "RGI 1007-3.jpg",
-    "outputName": "RGI-1007-3.jpg",
-    "bytes": 757842,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1007-3.jpg"
+    "collection": "bocca",
+    "sku": "54492-14",
+    "sourceName": "54492-14.jpg",
+    "outputName": "54492-14.jpg",
+    "bytes": 1728748,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-14.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1007-4",
-    "sourceName": "RGI 1007-4.jpg",
-    "outputName": "RGI-1007-4.jpg",
-    "bytes": 744938,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1007-4.jpg"
+    "collection": "bocca",
+    "sku": "54492-15",
+    "sourceName": "54492-15.jpg",
+    "outputName": "54492-15.jpg",
+    "bytes": 1790189,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-15.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-1",
-    "sourceName": "RGI 1008-1.jpg",
-    "outputName": "RGI-1008-1.jpg",
-    "bytes": 951582,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-1.jpg"
+    "collection": "bocca",
+    "sku": "54492-16",
+    "sourceName": "54492-16.jpg",
+    "outputName": "54492-16.jpg",
+    "bytes": 1942860,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-16.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-2",
-    "sourceName": "RGI 1008-2.jpg",
-    "outputName": "RGI-1008-2.jpg",
-    "bytes": 1153623,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-2.jpg"
+    "collection": "bocca",
+    "sku": "54492-17",
+    "sourceName": "54492-17.jpg",
+    "outputName": "54492-17.jpg",
+    "bytes": 1671804,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-17.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-3",
-    "sourceName": "RGI 1008-3.jpg",
-    "outputName": "RGI-1008-3.jpg",
-    "bytes": 1298674,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-3.jpg"
+    "collection": "bocca",
+    "sku": "54492-18",
+    "sourceName": "54492-18.jpg",
+    "outputName": "54492-18.jpg",
+    "bytes": 1774722,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-18.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-4",
-    "sourceName": "RGI 1008-4.jpg",
-    "outputName": "RGI-1008-4.jpg",
-    "bytes": 1074585,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-4.jpg"
+    "collection": "bocca",
+    "sku": "54492-19",
+    "sourceName": "54492-19.jpg",
+    "outputName": "54492-19.jpg",
+    "bytes": 1431925,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-19.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-5",
-    "sourceName": "RGI 1008-5.jpg",
-    "outputName": "RGI-1008-5.jpg",
-    "bytes": 1240293,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-5.jpg"
+    "collection": "bocca",
+    "sku": "54493-1",
+    "sourceName": "54493-1.jpg",
+    "outputName": "54493-1.jpg",
+    "bytes": 430080,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-6",
-    "sourceName": "RGI 1008-6.jpg",
-    "outputName": "RGI-1008-6.jpg",
-    "bytes": 1287463,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-6.jpg"
+    "collection": "bocca",
+    "sku": "54493-2",
+    "sourceName": "54493-2.jpg",
+    "outputName": "54493-2.jpg",
+    "bytes": 418732,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-7",
-    "sourceName": "RGI 1008-7.jpg",
-    "outputName": "RGI-1008-7.jpg",
-    "bytes": 1110454,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-7.jpg"
+    "collection": "bocca",
+    "sku": "54493-3",
+    "sourceName": "54493-3.jpg",
+    "outputName": "54493-3.jpg",
+    "bytes": 515257,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-8",
-    "sourceName": "RGI 1008-8.jpg",
-    "outputName": "RGI-1008-8.jpg",
-    "bytes": 1296750,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-8.jpg"
+    "collection": "bocca",
+    "sku": "54493-4",
+    "sourceName": "54493-4.jpg",
+    "outputName": "54493-4.jpg",
+    "bytes": 545070,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-9",
-    "sourceName": "RGI 1008-9.jpg",
-    "outputName": "RGI-1008-9.jpg",
-    "bytes": 1304768,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-9.jpg"
+    "collection": "bocca",
+    "sku": "54493-5",
+    "sourceName": "54493-5.jpg",
+    "outputName": "54493-5.jpg",
+    "bytes": 603920,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-10",
-    "sourceName": "RGI 1008-10.jpg",
-    "outputName": "RGI-1008-10.jpg",
-    "bytes": 1083309,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-10.jpg"
+    "collection": "bocca",
+    "sku": "54493-6",
+    "sourceName": "54493-6.jpg",
+    "outputName": "54493-6.jpg",
+    "bytes": 1891391,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1008-11",
-    "sourceName": "RGI 1008-11.jpg",
-    "outputName": "RGI-1008-11.jpg",
-    "bytes": 1293782,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1008-11.jpg"
+    "collection": "bocca",
+    "sku": "54494-1",
+    "sourceName": "54494-1.jpg",
+    "outputName": "54494-1.jpg",
+    "bytes": 1755516,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-1",
-    "sourceName": "RGI 1009-1.jpg",
-    "outputName": "RGI-1009-1.jpg",
-    "bytes": 528915,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-1.jpg"
+    "collection": "bocca",
+    "sku": "54494-2",
+    "sourceName": "54494-2.jpg",
+    "outputName": "54494-2.jpg",
+    "bytes": 1922589,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-2",
-    "sourceName": "RGI 1009-2.jpg",
-    "outputName": "RGI-1009-2.jpg",
-    "bytes": 678728,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-2.jpg"
+    "collection": "bocca",
+    "sku": "54494-3",
+    "sourceName": "54494-3.jpg",
+    "outputName": "54494-3.jpg",
+    "bytes": 1969331,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-3",
-    "sourceName": "RGI 1009-3.jpg",
-    "outputName": "RGI-1009-3.jpg",
-    "bytes": 763588,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-3.jpg"
+    "collection": "bocca",
+    "sku": "54494-4",
+    "sourceName": "54494-4.jpg",
+    "outputName": "54494-4.jpg",
+    "bytes": 1506813,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-4",
-    "sourceName": "RGI 1009-4.jpg",
-    "outputName": "RGI-1009-4.jpg",
-    "bytes": 715775,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-4.jpg"
+    "collection": "bocca",
+    "sku": "54494-5",
+    "sourceName": "54494-5.jpg",
+    "outputName": "54494-5.jpg",
+    "bytes": 1580459,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-5",
-    "sourceName": "RGI 1009-5.jpg",
-    "outputName": "RGI-1009-5.jpg",
-    "bytes": 796559,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-5.jpg"
+    "collection": "bocca",
+    "sku": "54494-6",
+    "sourceName": "54494-6.jpg",
+    "outputName": "54494-6.jpg",
+    "bytes": 1488565,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1009-6",
-    "sourceName": "RGI 1009-6.jpg",
-    "outputName": "RGI-1009-6.jpg",
-    "bytes": 957772,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1009-6.jpg"
+    "collection": "bocca",
+    "sku": "54494-7",
+    "sourceName": "54494-7.jpg",
+    "outputName": "54494-7.jpg",
+    "bytes": 1533778,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-1",
-    "sourceName": "RGI 1010-1.jpg",
-    "outputName": "RGI-1010-1.jpg",
-    "bytes": 948351,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-1.jpg"
+    "collection": "bocca",
+    "sku": "54494-8",
+    "sourceName": "54494-8.jpg",
+    "outputName": "54494-8.jpg",
+    "bytes": 1834757,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-8.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-2",
-    "sourceName": "RGI 1010-2.jpg",
-    "outputName": "RGI-1010-2.jpg",
-    "bytes": 1123573,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-2.jpg"
+    "collection": "bocca",
+    "sku": "54494-9",
+    "sourceName": "54494-9.jpg",
+    "outputName": "54494-9.jpg",
+    "bytes": 1671689,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-9.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-3",
-    "sourceName": "RGI 1010-3.jpg",
-    "outputName": "RGI-1010-3.jpg",
-    "bytes": 1416629,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-3.jpg"
+    "collection": "bocca",
+    "sku": "54494-10",
+    "sourceName": "54494-10.jpg",
+    "outputName": "54494-10.jpg",
+    "bytes": 1805193,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-10.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-4",
-    "sourceName": "RGI 1010-4.jpg",
-    "outputName": "RGI-1010-4.jpg",
-    "bytes": 1159103,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-4.jpg"
+    "collection": "bocca",
+    "sku": "54494-11",
+    "sourceName": "54494-11.jpg",
+    "outputName": "54494-11.jpg",
+    "bytes": 1809032,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-11.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-5",
-    "sourceName": "RGI 1010-5.jpg",
-    "outputName": "RGI-1010-5.jpg",
-    "bytes": 1353485,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-5.jpg"
+    "collection": "bocca",
+    "sku": "54494-12",
+    "sourceName": "54494-12.jpg",
+    "outputName": "54494-12.jpg",
+    "bytes": 1782588,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-12.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-6",
-    "sourceName": "RGI 1010-6.jpg",
-    "outputName": "RGI-1010-6.jpg",
-    "bytes": 1496566,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-6.jpg"
+    "collection": "bocca",
+    "sku": "54494-13",
+    "sourceName": "54494-13.jpg",
+    "outputName": "54494-13.jpg",
+    "bytes": 1945261,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-13.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-7",
-    "sourceName": "RGI 1010-7.jpg",
-    "outputName": "RGI-1010-7.jpg",
-    "bytes": 1114133,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-7.jpg"
+    "collection": "bocca",
+    "sku": "54495-1",
+    "sourceName": "54495-1.jpg",
+    "outputName": "54495-1.jpg",
+    "bytes": 1638466,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-1.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-8",
-    "sourceName": "RGI 1010-8.jpg",
-    "outputName": "RGI-1010-8.jpg",
-    "bytes": 1410666,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-8.jpg"
+    "collection": "bocca",
+    "sku": "54495-2",
+    "sourceName": "54495-2.jpg",
+    "outputName": "54495-2.jpg",
+    "bytes": 413880,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-2.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-9",
-    "sourceName": "RGI 1010-9.jpg",
-    "outputName": "RGI-1010-9.jpg",
-    "bytes": 1342301,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-9.jpg"
+    "collection": "bocca",
+    "sku": "54495-3",
+    "sourceName": "54495-3.jpg",
+    "outputName": "54495-3.jpg",
+    "bytes": 474551,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-3.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-10",
-    "sourceName": "RGI 1010-10.jpg",
-    "outputName": "RGI-1010-10.jpg",
-    "bytes": 1253746,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-10.jpg"
+    "collection": "bocca",
+    "sku": "54495-4",
+    "sourceName": "54495-4.jpg",
+    "outputName": "54495-4.jpg",
+    "bytes": 587119,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-4.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-11",
-    "sourceName": "RGI 1010-11.jpg",
-    "outputName": "RGI-1010-11.jpg",
-    "bytes": 1270781,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-11.jpg"
+    "collection": "bocca",
+    "sku": "54495-5",
+    "sourceName": "54495-5.jpg",
+    "outputName": "54495-5.jpg",
+    "bytes": 1855196,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-5.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-12",
-    "sourceName": "RGI 1010-12.jpg",
-    "outputName": "RGI-1010-12.jpg",
-    "bytes": 1194657,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-12.jpg"
+    "collection": "bocca",
+    "sku": "54495-6",
+    "sourceName": "54495-6.jpg",
+    "outputName": "54495-6.jpg",
+    "bytes": 514320,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-6.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-13",
-    "sourceName": "RGI 1010-13.jpg",
-    "outputName": "RGI-1010-13.jpg",
-    "bytes": 1305289,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-13.jpg"
+    "collection": "bocca",
+    "sku": "54495-7",
+    "sourceName": "54495-7.jpg",
+    "outputName": "54495-7.jpg",
+    "bytes": 501473,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-7.jpg"
   },
   {
-    "collection": "giorgio",
-    "sku": "RGI 1010-14",
-    "sourceName": "RGI 1010-14.jpg",
-    "outputName": "RGI-1010-14.jpg",
-    "bytes": 1312247,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/giorgio/RGI-1010-14.jpg"
+    "collection": "bocca",
+    "sku": "54495-8",
+    "sourceName": "54495-8.jpg",
+    "outputName": "54495-8.jpg",
+    "bytes": 534957,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-8.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-1",
-    "sourceName": "15035-1.jpg",
-    "outputName": "15035-1.jpg",
-    "bytes": 1844745,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-1",
+    "sourceName": "54496-1_l.jpg",
+    "outputName": "54496-1.jpg",
+    "bytes": 461623,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-2",
-    "sourceName": "15035-2.jpg",
-    "outputName": "15035-2.jpg",
-    "bytes": 1172944,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-2",
+    "sourceName": "54496-2_l.jpg",
+    "outputName": "54496-2.jpg",
+    "bytes": 517075,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-3",
-    "sourceName": "15035-3.jpg",
-    "outputName": "15035-3.jpg",
-    "bytes": 1319519,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-3",
+    "sourceName": "54496-3_l.jpg",
+    "outputName": "54496-3.jpg",
+    "bytes": 540673,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-4",
-    "sourceName": "15035-4.jpg",
-    "outputName": "15035-4.jpg",
-    "bytes": 1470466,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-4",
+    "sourceName": "54496-4_l.jpg",
+    "outputName": "54496-4.jpg",
+    "bytes": 578900,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-5",
-    "sourceName": "15035-5.jpg",
-    "outputName": "15035-5.jpg",
-    "bytes": 1616405,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-5",
+    "sourceName": "54496-5_l.jpg",
+    "outputName": "54496-5.jpg",
+    "bytes": 776308,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-5.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-6",
-    "sourceName": "15035-6.jpg",
-    "outputName": "15035-6.jpg",
-    "bytes": 1751157,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-6",
+    "sourceName": "54496-6_l.jpg",
+    "outputName": "54496-6.jpg",
+    "bytes": 502425,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-6.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15035-7",
-    "sourceName": "15035-7.jpg",
-    "outputName": "15035-7.jpg",
-    "bytes": 1448364,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15035-7.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-7",
+    "sourceName": "54496-7_l.jpg",
+    "outputName": "54496-7.jpg",
+    "bytes": 480430,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-7.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-1",
-    "sourceName": "15036-1.jpg",
-    "outputName": "15036-1.jpg",
-    "bytes": 1326531,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-8",
+    "sourceName": "54496-8_l.jpg",
+    "outputName": "54496-8.jpg",
+    "bytes": 538563,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-8.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-2",
-    "sourceName": "15036-2.jpg",
-    "outputName": "15036-2.jpg",
-    "bytes": 1373368,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-9",
+    "sourceName": "54496-9_l.jpg",
+    "outputName": "54496-9.jpg",
+    "bytes": 614350,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-9.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-3",
-    "sourceName": "15036-3.jpg",
-    "outputName": "15036-3.jpg",
-    "bytes": 1511584,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-10",
+    "sourceName": "54496-10_l.jpg",
+    "outputName": "54496-10.jpg",
+    "bytes": 558220,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-10.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-4",
-    "sourceName": "15036-4.jpg",
-    "outputName": "15036-4.jpg",
-    "bytes": 1629147,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-11",
+    "sourceName": "54496-11_l.jpg",
+    "outputName": "54496-11.jpg",
+    "bytes": 621496,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-11.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-5",
-    "sourceName": "15036-5.jpg",
-    "outputName": "15036-5.jpg",
-    "bytes": 1712298,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-12",
+    "sourceName": "54496-12_l.jpg",
+    "outputName": "54496-12.jpg",
+    "bytes": 623741,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-12.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15036-6",
-    "sourceName": "15036-6.jpg",
-    "outputName": "15036-6.jpg",
-    "bytes": 1835615,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15036-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-13",
+    "sourceName": "54496-13_l.jpg",
+    "outputName": "54496-13.jpg",
+    "bytes": 458659,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-13.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-1",
-    "sourceName": "15037-1.jpg",
-    "outputName": "15037-1.jpg",
-    "bytes": 1391577,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-14",
+    "sourceName": "54496-14_l.jpg",
+    "outputName": "54496-14.jpg",
+    "bytes": 539085,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-14.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-2",
-    "sourceName": "15037-2.jpg",
-    "outputName": "15037-2.jpg",
-    "bytes": 1583443,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-15",
+    "sourceName": "54496-15_l.jpg",
+    "outputName": "54496-15.jpg",
+    "bytes": 613618,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-15.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-3",
-    "sourceName": "15037-3.jpg",
-    "outputName": "15037-3.jpg",
-    "bytes": 1740898,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-16",
+    "sourceName": "54496-16_l.jpg",
+    "outputName": "54496-16.jpg",
+    "bytes": 653515,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-16.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-4",
-    "sourceName": "15037-4.jpg",
-    "outputName": "15037-4.jpg",
-    "bytes": 1679050,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54496-17",
+    "sourceName": "54496-17_l.jpg",
+    "outputName": "54496-17.jpg",
+    "bytes": 560644,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-17.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-5",
-    "sourceName": "15037-5.jpg",
-    "outputName": "15037-5.jpg",
-    "bytes": 1937416,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-1",
+    "sourceName": "54497-1_l.jpg",
+    "outputName": "54497-1.jpg",
+    "bytes": 520650,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15037-6",
-    "sourceName": "15037-6.jpg",
-    "outputName": "15037-6.jpg",
-    "bytes": 1967149,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15037-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-2",
+    "sourceName": "54497-2_l.jpg",
+    "outputName": "54497-2.jpg",
+    "bytes": 516698,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-1",
-    "sourceName": "15038-1.jpg",
-    "outputName": "15038-1.jpg",
-    "bytes": 1054665,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-3",
+    "sourceName": "54497-3_l.jpg",
+    "outputName": "54497-3.jpg",
+    "bytes": 573912,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-2",
-    "sourceName": "15038-2.jpg",
-    "outputName": "15038-2.jpg",
-    "bytes": 1063859,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-4",
+    "sourceName": "54497-4_l.jpg",
+    "outputName": "54497-4.jpg",
+    "bytes": 454329,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-3",
-    "sourceName": "15038-3.jpg",
-    "outputName": "15038-3.jpg",
-    "bytes": 1170011,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-5",
+    "sourceName": "54497-5_l.jpg",
+    "outputName": "54497-5.jpg",
+    "bytes": 534108,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-5.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-4",
-    "sourceName": "15038-4.jpg",
-    "outputName": "15038-4.jpg",
-    "bytes": 1234154,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54497-6",
+    "sourceName": "54497-6_l.jpg",
+    "outputName": "54497-6.jpg",
+    "bytes": 439429,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-6.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-5",
-    "sourceName": "15038-5.jpg",
-    "outputName": "15038-5.jpg",
-    "bytes": 1278284,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-1",
+    "sourceName": "54498-1_l.jpg",
+    "outputName": "54498-1.jpg",
+    "bytes": 584131,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-6",
-    "sourceName": "15038-6.jpg",
-    "outputName": "15038-6.jpg",
-    "bytes": 1284290,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-2",
+    "sourceName": "54498-2_l.jpg",
+    "outputName": "54498-2.jpg",
+    "bytes": 479979,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-7",
-    "sourceName": "15038-7.jpg",
-    "outputName": "15038-7.jpg",
-    "bytes": 1791175,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-7.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-3",
+    "sourceName": "54498-3_l.jpg",
+    "outputName": "54498-3.jpg",
+    "bytes": 559423,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-8",
-    "sourceName": "15038-8.jpg",
-    "outputName": "15038-8.jpg",
-    "bytes": 1211422,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-8.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-4",
+    "sourceName": "54498-4_l.jpg",
+    "outputName": "54498-4.jpg",
+    "bytes": 766060,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15038-9",
-    "sourceName": "15038-9.jpg",
-    "outputName": "15038-9.jpg",
-    "bytes": 1189149,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15038-9.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-5",
+    "sourceName": "54498-5_l.jpg",
+    "outputName": "54498-5.jpg",
+    "bytes": 1065910,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-5.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15039-1",
-    "sourceName": "15039-1.jpg",
-    "outputName": "15039-1.jpg",
-    "bytes": 1689421,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15039-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-6",
+    "sourceName": "54498-6_l.jpg",
+    "outputName": "54498-6.jpg",
+    "bytes": 642418,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-6.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15039-2",
-    "sourceName": "15039-2.jpg",
-    "outputName": "15039-2.jpg",
-    "bytes": 1189059,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15039-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-7",
+    "sourceName": "54498-7_l.jpg",
+    "outputName": "54498-7.jpg",
+    "bytes": 695626,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-7.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15039-3",
-    "sourceName": "15039-3.jpg",
-    "outputName": "15039-3.jpg",
-    "bytes": 1116745,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15039-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-8",
+    "sourceName": "54498-8_l.jpg",
+    "outputName": "54498-8.jpg",
+    "bytes": 720135,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-8.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15039-4",
-    "sourceName": "15039-4.jpg",
-    "outputName": "15039-4.jpg",
-    "bytes": 1127117,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15039-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-9",
+    "sourceName": "54498-9_l.jpg",
+    "outputName": "54498-9.jpg",
+    "bytes": 842994,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-9.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15039-5",
-    "sourceName": "15039-5.jpg",
-    "outputName": "15039-5.jpg",
-    "bytes": 1974594,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15039-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-10",
+    "sourceName": "54498-10_l.jpg",
+    "outputName": "54498-10.jpg",
+    "bytes": 547277,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-10.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-1",
-    "sourceName": "15040-1.jpg",
-    "outputName": "15040-1.jpg",
-    "bytes": 1229057,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-11",
+    "sourceName": "54498-11_l.jpg",
+    "outputName": "54498-11.jpg",
+    "bytes": 521090,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-11.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-2",
-    "sourceName": "15040-2.jpg",
-    "outputName": "15040-2.jpg",
-    "bytes": 1147819,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-12",
+    "sourceName": "54498-12_l.jpg",
+    "outputName": "54498-12.jpg",
+    "bytes": 647896,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-12.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-3",
-    "sourceName": "15040-3.jpg",
-    "outputName": "15040-3.jpg",
-    "bytes": 1263773,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-13",
+    "sourceName": "54498-13_l.jpg",
+    "outputName": "54498-13.jpg",
+    "bytes": 733925,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-13.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-4",
-    "sourceName": "15040-4.jpg",
-    "outputName": "15040-4.jpg",
-    "bytes": 1293005,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54498-14",
+    "sourceName": "54498-14_l.jpg",
+    "outputName": "54498-14.jpg",
+    "bytes": 672169,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-14.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-5",
-    "sourceName": "15040-5.jpg",
-    "outputName": "15040-5.jpg",
-    "bytes": 1142568,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54499-1",
+    "sourceName": "54499-1_l.jpg",
+    "outputName": "54499-1.jpg",
+    "bytes": 396215,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-6",
-    "sourceName": "15040-6.jpg",
-    "outputName": "15040-6.jpg",
-    "bytes": 1288388,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54499-2",
+    "sourceName": "54499-2_l.jpg",
+    "outputName": "54499-2.jpg",
+    "bytes": 544511,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-7",
-    "sourceName": "15040-7.jpg",
-    "outputName": "15040-7.jpg",
-    "bytes": 1292779,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-7.jpg"
+    "collection": "spectrum-new",
+    "sku": "54499-3",
+    "sourceName": "54499-3_l.jpg",
+    "outputName": "54499-3.jpg",
+    "bytes": 546798,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-8",
-    "sourceName": "15040-8.jpg",
-    "outputName": "15040-8.jpg",
-    "bytes": 1232268,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-8.jpg"
+    "collection": "spectrum-new",
+    "sku": "54499-4",
+    "sourceName": "54499-4_l.jpg",
+    "outputName": "54499-4.jpg",
+    "bytes": 515681,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-9",
-    "sourceName": "15040-9.jpg",
-    "outputName": "15040-9.jpg",
-    "bytes": 1334271,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-9.jpg"
+    "collection": "spectrum-new",
+    "sku": "54499-5",
+    "sourceName": "54499-5_l.jpg",
+    "outputName": "54499-5.jpg",
+    "bytes": 844954,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-5.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-10",
-    "sourceName": "15040-10.jpg",
-    "outputName": "15040-10.jpg",
-    "bytes": 1278063,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-10.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-1",
+    "sourceName": "54500-1_l.jpg",
+    "outputName": "54500-1.jpg",
+    "bytes": 145576,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-11",
-    "sourceName": "15040-11.jpg",
-    "outputName": "15040-11.jpg",
-    "bytes": 1462182,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-11.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-2",
+    "sourceName": "54500-2_l.jpg",
+    "outputName": "54500-2.jpg",
+    "bytes": 517166,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15040-12",
-    "sourceName": "15040-12.jpg",
-    "outputName": "15040-12.jpg",
-    "bytes": 1569826,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15040-12.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-3",
+    "sourceName": "54500-3_l.jpg",
+    "outputName": "54500-3.jpg",
+    "bytes": 604562,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-1",
-    "sourceName": "15041-1.jpg",
-    "outputName": "15041-1.jpg",
-    "bytes": 1214698,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-4",
+    "sourceName": "54500-4_l.jpg",
+    "outputName": "54500-4.jpg",
+    "bytes": 671635,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-2",
-    "sourceName": "15041-2.jpg",
-    "outputName": "15041-2.jpg",
-    "bytes": 1211540,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-5",
+    "sourceName": "54500-5_l.jpg",
+    "outputName": "54500-5.jpg",
+    "bytes": 666252,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-5.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-3",
-    "sourceName": "15041-3.jpg",
-    "outputName": "15041-3.jpg",
-    "bytes": 1317681,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-6",
+    "sourceName": "54500-6_l.jpg",
+    "outputName": "54500-6.jpg",
+    "bytes": 736149,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-6.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-4",
-    "sourceName": "15041-4.jpg",
-    "outputName": "15041-4.jpg",
-    "bytes": 1249079,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-7",
+    "sourceName": "54500-7_l.jpg",
+    "outputName": "54500-7.jpg",
+    "bytes": 457192,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-7.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-5",
-    "sourceName": "15041-5.jpg",
-    "outputName": "15041-5.jpg",
-    "bytes": 1351193,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-8",
+    "sourceName": "54500-8_l.jpg",
+    "outputName": "54500-8.jpg",
+    "bytes": 541250,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-8.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15041-6",
-    "sourceName": "15041-6.jpg",
-    "outputName": "15041-6.jpg",
-    "bytes": 1430134,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15041-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-9",
+    "sourceName": "54500-9_l.jpg",
+    "outputName": "54500-9.jpg",
+    "bytes": 660342,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-9.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-1",
-    "sourceName": "15042-1.jpg",
-    "outputName": "15042-1.jpg",
-    "bytes": 1920475,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-10",
+    "sourceName": "54500-10_l.jpg",
+    "outputName": "54500-10.jpg",
+    "bytes": 555332,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-10.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-2",
-    "sourceName": "15042-2.jpg",
-    "outputName": "15042-2.jpg",
-    "bytes": 985710,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-11",
+    "sourceName": "54500-11_l.jpg",
+    "outputName": "54500-11.jpg",
+    "bytes": 629512,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-11.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-3",
-    "sourceName": "15042-3.jpg",
-    "outputName": "15042-3.jpg",
-    "bytes": 1704923,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-12",
+    "sourceName": "54500-12_l.jpg",
+    "outputName": "54500-12.jpg",
+    "bytes": 790796,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-12.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-4",
-    "sourceName": "15042-4.jpg",
-    "outputName": "15042-4.jpg",
-    "bytes": 1973455,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-13",
+    "sourceName": "54500-13_l.jpg",
+    "outputName": "54500-13.jpg",
+    "bytes": 633824,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-13.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-5",
-    "sourceName": "15042-5.jpg",
-    "outputName": "15042-5.jpg",
-    "bytes": 1944662,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-14",
+    "sourceName": "54500-14_l.jpg",
+    "outputName": "54500-14.jpg",
+    "bytes": 712015,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-14.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-6",
-    "sourceName": "15042-6.jpg",
-    "outputName": "15042-6.jpg",
-    "bytes": 1045666,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-15",
+    "sourceName": "54500-15_l.jpg",
+    "outputName": "54500-15.jpg",
+    "bytes": 526884,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-15.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-7",
-    "sourceName": "15042-7.jpg",
-    "outputName": "15042-7.jpg",
-    "bytes": 1729116,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-7.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-16",
+    "sourceName": "54500-16_l.jpg",
+    "outputName": "54500-16.jpg",
+    "bytes": 570545,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-16.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-8",
-    "sourceName": "15042-8.jpg",
-    "outputName": "15042-8.jpg",
-    "bytes": 1833768,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-8.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-17",
+    "sourceName": "54500-17_l.jpg",
+    "outputName": "54500-17.jpg",
+    "bytes": 594905,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-17.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-9",
-    "sourceName": "15042-9.jpg",
-    "outputName": "15042-9.jpg",
-    "bytes": 1924681,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-9.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-18",
+    "sourceName": "54500-18_l.jpg",
+    "outputName": "54500-18.jpg",
+    "bytes": 652967,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-18.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-10",
-    "sourceName": "15042-10.jpg",
-    "outputName": "15042-10.jpg",
-    "bytes": 1051653,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-10.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-19",
+    "sourceName": "54500-19_l.jpg",
+    "outputName": "54500-19.jpg",
+    "bytes": 496170,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-19.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-11",
-    "sourceName": "15042-11.jpg",
-    "outputName": "15042-11.jpg",
-    "bytes": 1143280,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-11.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-20",
+    "sourceName": "54500-20_l.jpg",
+    "outputName": "54500-20.jpg",
+    "bytes": 486256,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-20.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15042-12",
-    "sourceName": "15042-12.jpg",
-    "outputName": "15042-12.jpg",
-    "bytes": 1156049,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15042-12.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-21",
+    "sourceName": "54500-21_l.jpg",
+    "outputName": "54500-21.jpg",
+    "bytes": 683498,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-21.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15043-1",
-    "sourceName": "15043-1.jpg",
-    "outputName": "15043-1.jpg",
-    "bytes": 1534178,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15043-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-22",
+    "sourceName": "54500-22_l.jpg",
+    "outputName": "54500-22.jpg",
+    "bytes": 707863,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-22.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15043-2",
-    "sourceName": "15043-2.jpg",
-    "outputName": "15043-2.jpg",
-    "bytes": 1535973,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15043-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-23",
+    "sourceName": "54500-23_l.jpg",
+    "outputName": "54500-23.jpg",
+    "bytes": 699624,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-23.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15043-3",
-    "sourceName": "15043-3.jpg",
-    "outputName": "15043-3.jpg",
-    "bytes": 1658306,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15043-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-24",
+    "sourceName": "54500-24_l.jpg",
+    "outputName": "54500-24.jpg",
+    "bytes": 674296,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-24.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15043-4",
-    "sourceName": "15043-4.jpg",
-    "outputName": "15043-4.jpg",
-    "bytes": 1573465,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15043-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-25",
+    "sourceName": "54500-25_l.jpg",
+    "outputName": "54500-25.jpg",
+    "bytes": 775217,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-25.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15043-5",
-    "sourceName": "15043-5.jpg",
-    "outputName": "15043-5.jpg",
-    "bytes": 1914271,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15043-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-26",
+    "sourceName": "54500-26_l.jpg",
+    "outputName": "54500-26.jpg",
+    "bytes": 823430,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-26.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-1",
-    "sourceName": "15044-1.jpg",
-    "outputName": "15044-1.jpg",
-    "bytes": 1909643,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-27",
+    "sourceName": "54500-27_l.jpg",
+    "outputName": "54500-27.jpg",
+    "bytes": 559459,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-27.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-2",
-    "sourceName": "15044-2.jpg",
-    "outputName": "15044-2.jpg",
-    "bytes": 1170985,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-28",
+    "sourceName": "54500-28_l.jpg",
+    "outputName": "54500-28.jpg",
+    "bytes": 634680,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-28.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-3",
-    "sourceName": "15044-3.jpg",
-    "outputName": "15044-3.jpg",
-    "bytes": 1102513,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-29",
+    "sourceName": "54500-29_l.jpg",
+    "outputName": "54500-29.jpg",
+    "bytes": 739707,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-29.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-4",
-    "sourceName": "15044-4.jpg",
-    "outputName": "15044-4.jpg",
-    "bytes": 1192570,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-30",
+    "sourceName": "54500-30_l.jpg",
+    "outputName": "54500-30.jpg",
+    "bytes": 670989,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-30.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-5",
-    "sourceName": "15044-5.jpg",
-    "outputName": "15044-5.jpg",
-    "bytes": 1261689,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-31",
+    "sourceName": "54500-31_l.jpg",
+    "outputName": "54500-31.jpg",
+    "bytes": 424855,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-31.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-6",
-    "sourceName": "15044-6.jpg",
-    "outputName": "15044-6.jpg",
-    "bytes": 1180867,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-6.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-32",
+    "sourceName": "54500-32_l.jpg",
+    "outputName": "54500-32.jpg",
+    "bytes": 593333,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-32.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-7",
-    "sourceName": "15044-7.jpg",
-    "outputName": "15044-7.jpg",
-    "bytes": 1243794,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-7.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-33",
+    "sourceName": "54500-33_l.jpg",
+    "outputName": "54500-33.jpg",
+    "bytes": 820119,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-33.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-8",
-    "sourceName": "15044-8.jpg",
-    "outputName": "15044-8.jpg",
-    "bytes": 1084032,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-8.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-34",
+    "sourceName": "54500-34_l.jpg",
+    "outputName": "54500-34.jpg",
+    "bytes": 497922,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-34.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-9",
-    "sourceName": "15044-9.jpg",
-    "outputName": "15044-9.jpg",
-    "bytes": 1153639,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-9.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-35",
+    "sourceName": "54500-35_l.jpg",
+    "outputName": "54500-35.jpg",
+    "bytes": 552284,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-35.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-10",
-    "sourceName": "15044-10.jpg",
-    "outputName": "15044-10.jpg",
-    "bytes": 1184878,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-10.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-36",
+    "sourceName": "54500-36_l.jpg",
+    "outputName": "54500-36.jpg",
+    "bytes": 612014,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-36.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-11",
-    "sourceName": "15044-11.jpg",
-    "outputName": "15044-11.jpg",
-    "bytes": 1010935,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-11.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-37",
+    "sourceName": "54500-37_l.jpg",
+    "outputName": "54500-37.jpg",
+    "bytes": 712482,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-37.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15044-12",
-    "sourceName": "15044-12.jpg",
-    "outputName": "15044-12.jpg",
-    "bytes": 1329495,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15044-12.jpg"
+    "collection": "spectrum-new",
+    "sku": "54500-38",
+    "sourceName": "54500-38_l.jpg",
+    "outputName": "54500-38.jpg",
+    "bytes": 924063,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-38.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15045-1",
-    "sourceName": "15045-1.jpg",
-    "outputName": "15045-1.jpg",
-    "bytes": 1906865,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15045-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54501-1",
+    "sourceName": "54501-1_l.jpg",
+    "outputName": "54501-1.jpg",
+    "bytes": 287617,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15045-2",
-    "sourceName": "15045-2.jpg",
-    "outputName": "15045-2.jpg",
-    "bytes": 1165708,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15045-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54501-2",
+    "sourceName": "54501-2_l.jpg",
+    "outputName": "54501-2.jpg",
+    "bytes": 361336,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15045-3",
-    "sourceName": "15045-3.jpg",
-    "outputName": "15045-3.jpg",
-    "bytes": 1169074,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15045-3.jpg"
+    "collection": "spectrum-new",
+    "sku": "54501-3",
+    "sourceName": "54501-3_l.jpg",
+    "outputName": "54501-3.jpg",
+    "bytes": 430512,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15045-4",
-    "sourceName": "15045-4.jpg",
-    "outputName": "15045-4.jpg",
-    "bytes": 1119544,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15045-4.jpg"
+    "collection": "spectrum-new",
+    "sku": "54502-1",
+    "sourceName": "54502-1_l.jpg",
+    "outputName": "54502-1.jpg",
+    "bytes": 445571,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-1.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15045-5",
-    "sourceName": "15045-5.jpg",
-    "outputName": "15045-5.jpg",
-    "bytes": 1162519,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15045-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54502-2",
+    "sourceName": "54502-2_l.jpg",
+    "outputName": "54502-2.jpg",
+    "bytes": 457303,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-2.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15046-1",
-    "sourceName": "15046-1.jpg",
-    "outputName": "15046-1.jpg",
-    "bytes": 1237474,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-1.jpg"
+    "collection": "spectrum-new",
+    "sku": "54502-3",
+    "sourceName": "54502-3_l.jpg",
+    "outputName": "54502-3.jpg",
+    "bytes": 477480,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-3.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15046-2",
-    "sourceName": "15046-2.jpg",
-    "outputName": "15046-2.jpg",
-    "bytes": 1269561,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-2.jpg"
+    "collection": "spectrum-new",
+    "sku": "54502-4",
+    "sourceName": "54502-4_l.jpg",
+    "outputName": "54502-4.jpg",
+    "bytes": 549951,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-4.jpg"
   },
   {
-    "collection": "berti",
-    "sku": "15046-3",
-    "sourceName": "15046-3.jpg",
-    "outputName": "15046-3.jpg",
-    "bytes": 1422450,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-3.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-4",
-    "sourceName": "15046-4.jpg",
-    "outputName": "15046-4.jpg",
-    "bytes": 1544698,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-4.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-5",
-    "sourceName": "15046-5.jpg",
-    "outputName": "15046-5.jpg",
-    "bytes": 1565315,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-5.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-6",
-    "sourceName": "15046-6.jpg",
-    "outputName": "15046-6.jpg",
-    "bytes": 1174290,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-6.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-7",
-    "sourceName": "15046-7.jpg",
-    "outputName": "15046-7.jpg",
-    "bytes": 1416581,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-7.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-8",
-    "sourceName": "15046-8.jpg",
-    "outputName": "15046-8.jpg",
-    "bytes": 1447318,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-8.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-9",
-    "sourceName": "15046-9.jpg",
-    "outputName": "15046-9.jpg",
-    "bytes": 1448034,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-9.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15046-10",
-    "sourceName": "15046-10.jpg",
-    "outputName": "15046-10.jpg",
-    "bytes": 1655862,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15046-10.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15047-1",
-    "sourceName": "15047-1.jpg",
-    "outputName": "15047-1.jpg",
-    "bytes": 1404775,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15047-1.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15047-2",
-    "sourceName": "15047-2.jpg",
-    "outputName": "15047-2.jpg",
-    "bytes": 1519018,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15047-2.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15047-3",
-    "sourceName": "15047-3.jpg",
-    "outputName": "15047-3.jpg",
-    "bytes": 1564775,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15047-3.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15047-4",
-    "sourceName": "15047-4.jpg",
-    "outputName": "15047-4.jpg",
-    "bytes": 1828878,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15047-4.jpg"
-  },
-  {
-    "collection": "berti",
-    "sku": "15047-5",
-    "sourceName": "15047-5.jpg",
-    "outputName": "15047-5.jpg",
-    "bytes": 1916080,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/berti/15047-5.jpg"
+    "collection": "spectrum-new",
+    "sku": "54502-5",
+    "sourceName": "54502-5_l.jpg",
+    "outputName": "54502-5.jpg",
+    "bytes": 541260,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-5.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54503-1",
+    "sourceName": "54503-1_l.jpg",
+    "outputName": "54503-1.jpg",
+    "bytes": 787849,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-1.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54503-2",
+    "sourceName": "54503-2_l.jpg",
+    "outputName": "54503-2.jpg",
+    "bytes": 876497,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-2.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54503-3",
+    "sourceName": "54503-3_l.jpg",
+    "outputName": "54503-3.jpg",
+    "bytes": 925885,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-3.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54504-1",
+    "sourceName": "54504-1_l.jpg",
+    "outputName": "54504-1.jpg",
+    "bytes": 329232,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-1.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54504-2",
+    "sourceName": "54504-2_l.jpg",
+    "outputName": "54504-2.jpg",
+    "bytes": 283757,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-2.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54504-3",
+    "sourceName": "54504-3_l.jpg",
+    "outputName": "54504-3.jpg",
+    "bytes": 338034,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-3.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54504-4",
+    "sourceName": "54504-4_l.jpg",
+    "outputName": "54504-4.jpg",
+    "bytes": 413109,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-4.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54504-5",
+    "sourceName": "54504-5_l.jpg",
+    "outputName": "54504-5.jpg",
+    "bytes": 413433,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-5.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54505-1",
+    "sourceName": "54505-1_l.jpg",
+    "outputName": "54505-1.jpg",
+    "bytes": 342283,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-1.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54505-2",
+    "sourceName": "54505-2_l.jpg",
+    "outputName": "54505-2.jpg",
+    "bytes": 321294,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-2.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54505-3",
+    "sourceName": "54505-3_l.jpg",
+    "outputName": "54505-3.jpg",
+    "bytes": 351032,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-3.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54505-4",
+    "sourceName": "54505-4_l.jpg",
+    "outputName": "54505-4.jpg",
+    "bytes": 403224,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-4.jpg"
+  },
+  {
+    "collection": "spectrum-new",
+    "sku": "54505-5",
+    "sourceName": "54505-5_l.jpg",
+    "outputName": "54505-5.jpg",
+    "bytes": 424146,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-5.jpg"
   }
 ]
