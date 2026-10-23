@@ -1,1610 +1,2322 @@
 [
   {
-    "collection": "bocca",
-    "sku": "54486-1",
-    "sourceName": "54486-1.jpg",
-    "outputName": "54486-1.jpg",
-    "bytes": 1416244,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-1.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54486-2",
-    "sourceName": "54486-2.jpg",
-    "outputName": "54486-2.jpg",
-    "bytes": 1637675,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-2.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54486-3",
-    "sourceName": "54486-3.jpg",
-    "outputName": "54486-3.jpg",
-    "bytes": 1685160,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-3.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54486-4",
-    "sourceName": "54486-4.jpg",
-    "outputName": "54486-4.jpg",
-    "bytes": 1656789,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-4.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54486-5",
-    "sourceName": "54486-5.jpg",
-    "outputName": "54486-5.jpg",
-    "bytes": 1612899,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-5.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54486-6",
-    "sourceName": "54486-6.jpg",
-    "outputName": "54486-6.jpg",
-    "bytes": 1837004,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54486-6.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54487-1",
-    "sourceName": "54487-1.jpg",
-    "outputName": "54487-1.jpg",
-    "bytes": 1431049,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-1.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54487-2",
-    "sourceName": "54487-2.jpg",
-    "outputName": "54487-2.jpg",
-    "bytes": 361906,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-2.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54487-3",
-    "sourceName": "54487-3.jpg",
-    "outputName": "54487-3.jpg",
-    "bytes": 1824361,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-3.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54487-4",
-    "sourceName": "54487-4.jpg",
-    "outputName": "54487-4.jpg",
-    "bytes": 546032,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54487-4.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54488-1",
-    "sourceName": "54488-1.jpg",
-    "outputName": "54488-1.jpg",
-    "bytes": 1357598,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-1.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54488-2",
-    "sourceName": "54488-2.jpg",
-    "outputName": "54488-2.jpg",
-    "bytes": 1741078,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-2.jpg"
-  },
-  {
-    "collection": "bocca",
-    "sku": "54488-3",
-    "sourceName": "54488-3.jpg",
-    "outputName": "54488-3.jpg",
-    "bytes": 1856572,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-3.jpg"
+    "collection": "barros",
+    "sku": "84292-1",
+    "sourceName": "84292-1.jpg",
+    "outputName": "84292-1.jpg",
+    "bytes": 771579,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-1.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84292-2",
+    "sourceName": "84292-2.jpg",
+    "outputName": "84292-2.jpg",
+    "bytes": 742823,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-2.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84292-3",
+    "sourceName": "84292-3.jpg",
+    "outputName": "84292-3.jpg",
+    "bytes": 763311,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-3.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84292-4",
+    "sourceName": "84292-4.jpg",
+    "outputName": "84292-4.jpg",
+    "bytes": 613131,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-4.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84292-5",
+    "sourceName": "84292-5.jpg",
+    "outputName": "84292-5.jpg",
+    "bytes": 706707,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-5.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84292-6",
+    "sourceName": "84292-6.jpg",
+    "outputName": "84292-6.jpg",
+    "bytes": 695312,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84292-6.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-1",
+    "sourceName": "84293-1.jpg",
+    "outputName": "84293-1.jpg",
+    "bytes": 577344,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-1.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-2",
+    "sourceName": "84293-2.jpg",
+    "outputName": "84293-2.jpg",
+    "bytes": 815172,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-2.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-3",
+    "sourceName": "84293-3.jpg",
+    "outputName": "84293-3.jpg",
+    "bytes": 893482,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-3.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-4",
+    "sourceName": "84293-4.jpg",
+    "outputName": "84293-4.jpg",
+    "bytes": 880618,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-4.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-5",
+    "sourceName": "84293-5.jpg",
+    "outputName": "84293-5.jpg",
+    "bytes": 570131,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-5.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-6",
+    "sourceName": "84293-6.jpg",
+    "outputName": "84293-6.jpg",
+    "bytes": 579452,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-6.jpg"
+  },
+  {
+    "collection": "barros",
+    "sku": "84293-7",
+    "sourceName": "84293-7.jpg",
+    "outputName": "84293-7.jpg",
+    "bytes": 592108,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-7.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-4",
-    "sourceName": "54488-4.jpg",
-    "outputName": "54488-4.jpg",
-    "bytes": 1699213,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-4.jpg"
+    "collection": "barros",
+    "sku": "84293-8",
+    "sourceName": "84293-8.jpg",
+    "outputName": "84293-8.jpg",
+    "bytes": 737621,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-8.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-5",
-    "sourceName": "54488-5.jpg",
-    "outputName": "54488-5.jpg",
-    "bytes": 1749083,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-5.jpg"
+    "collection": "barros",
+    "sku": "84293-9",
+    "sourceName": "84293-9.jpg",
+    "outputName": "84293-9.jpg",
+    "bytes": 819581,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-9.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-6",
-    "sourceName": "54488-6.jpg",
-    "outputName": "54488-6.jpg",
-    "bytes": 1934608,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-6.jpg"
+    "collection": "barros",
+    "sku": "84293-10",
+    "sourceName": "84293-10.jpg",
+    "outputName": "84293-10.jpg",
+    "bytes": 796446,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-10.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-7",
-    "sourceName": "54488-7.jpg",
-    "outputName": "54488-7.jpg",
-    "bytes": 1753291,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-7.jpg"
+    "collection": "barros",
+    "sku": "84293-11",
+    "sourceName": "84293-11.jpg",
+    "outputName": "84293-11.jpg",
+    "bytes": 545628,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-11.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-8",
-    "sourceName": "54488-8.jpg",
-    "outputName": "54488-8.jpg",
-    "bytes": 1920634,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-8.jpg"
+    "collection": "barros",
+    "sku": "84293-12",
+    "sourceName": "84293-12.jpg",
+    "outputName": "84293-12.jpg",
+    "bytes": 649158,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-12.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-9",
-    "sourceName": "54488-9.jpg",
-    "outputName": "54488-9.jpg",
-    "bytes": 1824717,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-9.jpg"
+    "collection": "barros",
+    "sku": "84293-13",
+    "sourceName": "84293-13.jpg",
+    "outputName": "84293-13.jpg",
+    "bytes": 668934,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-13.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-10",
-    "sourceName": "54488-10.jpg",
-    "outputName": "54488-10.jpg",
-    "bytes": 1873433,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-10.jpg"
+    "collection": "barros",
+    "sku": "84293-14",
+    "sourceName": "84293-14.jpg",
+    "outputName": "84293-14.jpg",
+    "bytes": 800747,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-14.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-11",
-    "sourceName": "54488-11.jpg",
-    "outputName": "54488-11.jpg",
-    "bytes": 1961778,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-11.jpg"
+    "collection": "barros",
+    "sku": "84293-15",
+    "sourceName": "84293-15.jpg",
+    "outputName": "84293-15.jpg",
+    "bytes": 982561,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-15.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-12",
-    "sourceName": "54488-12.jpg",
-    "outputName": "54488-12.jpg",
-    "bytes": 343631,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-12.jpg"
+    "collection": "barros",
+    "sku": "84293-16",
+    "sourceName": "84293-16.jpg",
+    "outputName": "84293-16.jpg",
+    "bytes": 1064602,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-16.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-13",
-    "sourceName": "54488-13.jpg",
-    "outputName": "54488-13.jpg",
-    "bytes": 1894283,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-13.jpg"
+    "collection": "barros",
+    "sku": "84293-17",
+    "sourceName": "84293-17.jpg",
+    "outputName": "84293-17.jpg",
+    "bytes": 1034468,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84293-17.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-14",
-    "sourceName": "54488-14.jpg",
-    "outputName": "54488-14.jpg",
-    "bytes": 1941895,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-14.jpg"
+    "collection": "barros",
+    "sku": "84294-1",
+    "sourceName": "84294-1.jpg",
+    "outputName": "84294-1.jpg",
+    "bytes": 454722,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-15",
-    "sourceName": "54488-15.jpg",
-    "outputName": "54488-15.jpg",
-    "bytes": 1444769,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-15.jpg"
+    "collection": "barros",
+    "sku": "84294-2",
+    "sourceName": "84294-2.jpg",
+    "outputName": "84294-2.jpg",
+    "bytes": 385787,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-16",
-    "sourceName": "54488-16.jpg",
-    "outputName": "54488-16.jpg",
-    "bytes": 1929531,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-16.jpg"
+    "collection": "barros",
+    "sku": "84294-3",
+    "sourceName": "84294-3.jpg",
+    "outputName": "84294-3.jpg",
+    "bytes": 466302,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54488-17",
-    "sourceName": "54488-17.jpg",
-    "outputName": "54488-17.jpg",
-    "bytes": 1915580,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54488-17.jpg"
+    "collection": "barros",
+    "sku": "84294-4",
+    "sourceName": "84294-4.jpg",
+    "outputName": "84294-4.jpg",
+    "bytes": 528042,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-1",
-    "sourceName": "54489-1.jpg",
-    "outputName": "54489-1.jpg",
-    "bytes": 540460,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-1.jpg"
+    "collection": "barros",
+    "sku": "84294-5",
+    "sourceName": "84294-5.jpg",
+    "outputName": "84294-5.jpg",
+    "bytes": 340716,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-2",
-    "sourceName": "54489-2.jpg",
-    "outputName": "54489-2.jpg",
-    "bytes": 747353,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-2.jpg"
+    "collection": "barros",
+    "sku": "84294-6",
+    "sourceName": "84294-6.jpg",
+    "outputName": "84294-6.jpg",
+    "bytes": 384887,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84294-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-3",
-    "sourceName": "54489-3.jpg",
-    "outputName": "54489-3.jpg",
-    "bytes": 717216,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-3.jpg"
+    "collection": "barros",
+    "sku": "84295-1",
+    "sourceName": "84295-1.jpg",
+    "outputName": "84295-1.jpg",
+    "bytes": 688082,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-4",
-    "sourceName": "54489-4.jpg",
-    "outputName": "54489-4.jpg",
-    "bytes": 1327674,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-4.jpg"
+    "collection": "barros",
+    "sku": "84295-2",
+    "sourceName": "84295-2.jpg",
+    "outputName": "84295-2.jpg",
+    "bytes": 1299295,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-5",
-    "sourceName": "54489-5.jpg",
-    "outputName": "54489-5.jpg",
-    "bytes": 460605,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-5.jpg"
+    "collection": "barros",
+    "sku": "84295-3",
+    "sourceName": "84295-3.jpg",
+    "outputName": "84295-3.jpg",
+    "bytes": 1134584,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-6",
-    "sourceName": "54489-6.jpg",
-    "outputName": "54489-6.jpg",
-    "bytes": 1347403,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-6.jpg"
+    "collection": "barros",
+    "sku": "84295-4",
+    "sourceName": "84295-4.jpg",
+    "outputName": "84295-4.jpg",
+    "bytes": 1220637,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54489-7",
-    "sourceName": "54489-7.jpg",
-    "outputName": "54489-7.jpg",
-    "bytes": 527378,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54489-7.jpg"
+    "collection": "barros",
+    "sku": "84295-5",
+    "sourceName": "84295-5.jpg",
+    "outputName": "84295-5.jpg",
+    "bytes": 1473646,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-1",
-    "sourceName": "54490-1.jpg",
-    "outputName": "54490-1.jpg",
-    "bytes": 1535402,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-1.jpg"
+    "collection": "barros",
+    "sku": "84295-6",
+    "sourceName": "84295-6.jpg",
+    "outputName": "84295-6.jpg",
+    "bytes": 1274669,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84295-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-2",
-    "sourceName": "54490-2.jpg",
-    "outputName": "54490-2.jpg",
-    "bytes": 1989940,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-2.jpg"
+    "collection": "barros",
+    "sku": "84296-1",
+    "sourceName": "84296-1.jpg",
+    "outputName": "84296-1.jpg",
+    "bytes": 507016,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-3",
-    "sourceName": "54490-3.jpg",
-    "outputName": "54490-3.jpg",
-    "bytes": 1643205,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-3.jpg"
+    "collection": "barros",
+    "sku": "84296-2",
+    "sourceName": "84296-2.jpg",
+    "outputName": "84296-2.jpg",
+    "bytes": 989562,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-4",
-    "sourceName": "54490-4.jpg",
-    "outputName": "54490-4.jpg",
-    "bytes": 1883309,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-4.jpg"
+    "collection": "barros",
+    "sku": "84296-3",
+    "sourceName": "84296-3.jpg",
+    "outputName": "84296-3.jpg",
+    "bytes": 944555,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-5",
-    "sourceName": "54490-5.jpg",
-    "outputName": "54490-5.jpg",
-    "bytes": 475261,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-5.jpg"
+    "collection": "barros",
+    "sku": "84296-4",
+    "sourceName": "84296-4.jpg",
+    "outputName": "84296-4.jpg",
+    "bytes": 748121,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-6",
-    "sourceName": "54490-6.jpg",
-    "outputName": "54490-6.jpg",
-    "bytes": 365426,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-6.jpg"
+    "collection": "barros",
+    "sku": "84296-5",
+    "sourceName": "84296-5.jpg",
+    "outputName": "84296-5.jpg",
+    "bytes": 873274,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-7",
-    "sourceName": "54490-7.jpg",
-    "outputName": "54490-7.jpg",
-    "bytes": 1784040,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-7.jpg"
+    "collection": "barros",
+    "sku": "84296-6",
+    "sourceName": "84296-6.jpg",
+    "outputName": "84296-6.jpg",
+    "bytes": 656147,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-8",
-    "sourceName": "54490-8.jpg",
-    "outputName": "54490-8.jpg",
-    "bytes": 1977707,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-8.jpg"
+    "collection": "barros",
+    "sku": "84296-7",
+    "sourceName": "84296-7.jpg",
+    "outputName": "84296-7.jpg",
+    "bytes": 486086,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-7.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-9",
-    "sourceName": "54490-9.jpg",
-    "outputName": "54490-9.jpg",
-    "bytes": 1668206,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-9.jpg"
+    "collection": "barros",
+    "sku": "84296-8",
+    "sourceName": "84296-8.jpg",
+    "outputName": "84296-8.jpg",
+    "bytes": 558960,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-8.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-10",
-    "sourceName": "54490-10.jpg",
-    "outputName": "54490-10.jpg",
-    "bytes": 1504655,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-10.jpg"
+    "collection": "barros",
+    "sku": "84296-9",
+    "sourceName": "84296-9.jpg",
+    "outputName": "84296-9.jpg",
+    "bytes": 934754,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-9.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-11",
-    "sourceName": "54490-11.jpg",
-    "outputName": "54490-11.jpg",
-    "bytes": 1656292,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-11.jpg"
+    "collection": "barros",
+    "sku": "84296-10",
+    "sourceName": "84296-10.jpg",
+    "outputName": "84296-10.jpg",
+    "bytes": 947071,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-10.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-12",
-    "sourceName": "54490-12.jpg",
-    "outputName": "54490-12.jpg",
-    "bytes": 1412807,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-12.jpg"
+    "collection": "barros",
+    "sku": "84296-11",
+    "sourceName": "84296-11.jpg",
+    "outputName": "84296-11.jpg",
+    "bytes": 454938,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-11.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-13",
-    "sourceName": "54490-13.jpg",
-    "outputName": "54490-13.jpg",
-    "bytes": 1641998,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-13.jpg"
+    "collection": "barros",
+    "sku": "84296-12",
+    "sourceName": "84296-12.jpg",
+    "outputName": "84296-12.jpg",
+    "bytes": 580593,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-12.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54490-14",
-    "sourceName": "54490-14.jpg",
-    "outputName": "54490-14.jpg",
-    "bytes": 409933,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54490-14.jpg"
+    "collection": "barros",
+    "sku": "84296-13",
+    "sourceName": "84296-13.jpg",
+    "outputName": "84296-13.jpg",
+    "bytes": 725511,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-13.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-1",
-    "sourceName": "54491-1.jpg",
-    "outputName": "54491-1.jpg",
-    "bytes": 434707,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-1.jpg"
+    "collection": "barros",
+    "sku": "84296-14",
+    "sourceName": "84296-14.jpg",
+    "outputName": "84296-14.jpg",
+    "bytes": 709647,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84296-14.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-2",
-    "sourceName": "54491-2.jpg",
-    "outputName": "54491-2.jpg",
-    "bytes": 487417,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-2.jpg"
+    "collection": "barros",
+    "sku": "84297-1",
+    "sourceName": "84297-1.jpg",
+    "outputName": "84297-1.jpg",
+    "bytes": 1101274,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-3",
-    "sourceName": "54491-3.jpg",
-    "outputName": "54491-3.jpg",
-    "bytes": 1572439,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-3.jpg"
+    "collection": "barros",
+    "sku": "84297-2",
+    "sourceName": "84297-2.jpg",
+    "outputName": "84297-2.jpg",
+    "bytes": 1223067,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-4",
-    "sourceName": "54491-4.jpg",
-    "outputName": "54491-4.jpg",
-    "bytes": 610244,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-4.jpg"
+    "collection": "barros",
+    "sku": "84297-3",
+    "sourceName": "84297-3.jpg",
+    "outputName": "84297-3.jpg",
+    "bytes": 991272,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-5",
-    "sourceName": "54491-5.jpg",
-    "outputName": "54491-5.jpg",
-    "bytes": 538111,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-5.jpg"
+    "collection": "barros",
+    "sku": "84297-4",
+    "sourceName": "84297-4.jpg",
+    "outputName": "84297-4.jpg",
+    "bytes": 789217,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54491-6",
-    "sourceName": "54491-6.jpg",
-    "outputName": "54491-6.jpg",
-    "bytes": 671840,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54491-6.jpg"
+    "collection": "barros",
+    "sku": "84297-5",
+    "sourceName": "84297-5.jpg",
+    "outputName": "84297-5.jpg",
+    "bytes": 1263275,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-1",
-    "sourceName": "54492-1.jpg",
-    "outputName": "54492-1.jpg",
-    "bytes": 1494908,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-1.jpg"
+    "collection": "barros",
+    "sku": "84297-6",
+    "sourceName": "84297-6.jpg",
+    "outputName": "84297-6.jpg",
+    "bytes": 1226574,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-2",
-    "sourceName": "54492-2.jpg",
-    "outputName": "54492-2.jpg",
-    "bytes": 1703893,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-2.jpg"
+    "collection": "barros",
+    "sku": "84297-7",
+    "sourceName": "84297-7.jpg",
+    "outputName": "84297-7.jpg",
+    "bytes": 837637,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84297-7.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-3",
-    "sourceName": "54492-3.jpg",
-    "outputName": "54492-3.jpg",
-    "bytes": 1798833,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-3.jpg"
+    "collection": "barros",
+    "sku": "84298-1",
+    "sourceName": "84298-1.jpg",
+    "outputName": "84298-1.jpg",
+    "bytes": 668298,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-4",
-    "sourceName": "54492-4.jpg",
-    "outputName": "54492-4.jpg",
-    "bytes": 460429,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-4.jpg"
+    "collection": "barros",
+    "sku": "84298-2",
+    "sourceName": "84298-2.jpg",
+    "outputName": "84298-2.jpg",
+    "bytes": 849708,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-5",
-    "sourceName": "54492-5.jpg",
-    "outputName": "54492-5.jpg",
-    "bytes": 1729572,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-5.jpg"
+    "collection": "barros",
+    "sku": "84298-3",
+    "sourceName": "84298-3.jpg",
+    "outputName": "84298-3.jpg",
+    "bytes": 1191825,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-6",
-    "sourceName": "54492-6.jpg",
-    "outputName": "54492-6.jpg",
-    "bytes": 1416226,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-6.jpg"
+    "collection": "barros",
+    "sku": "84298-4",
+    "sourceName": "84298-4.jpg",
+    "outputName": "84298-4.jpg",
+    "bytes": 590610,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-7",
-    "sourceName": "54492-7.jpg",
-    "outputName": "54492-7.jpg",
-    "bytes": 1831827,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-7.jpg"
+    "collection": "barros",
+    "sku": "84298-5",
+    "sourceName": "84298-5.jpg",
+    "outputName": "84298-5.jpg",
+    "bytes": 956039,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-8",
-    "sourceName": "54492-8.jpg",
-    "outputName": "54492-8.jpg",
-    "bytes": 1742316,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-8.jpg"
+    "collection": "barros",
+    "sku": "84298-6",
+    "sourceName": "84298-6.jpg",
+    "outputName": "84298-6.jpg",
+    "bytes": 1214919,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-9",
-    "sourceName": "54492-9.jpg",
-    "outputName": "54492-9.jpg",
-    "bytes": 1770165,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-9.jpg"
+    "collection": "barros",
+    "sku": "84298-7",
+    "sourceName": "84298-7.jpg",
+    "outputName": "84298-7.jpg",
+    "bytes": 601598,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-7.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-10",
-    "sourceName": "54492-10.jpg",
-    "outputName": "54492-10.jpg",
-    "bytes": 410674,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-10.jpg"
+    "collection": "barros",
+    "sku": "84298-8",
+    "sourceName": "84298-8.jpg",
+    "outputName": "84298-8.jpg",
+    "bytes": 1155054,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-8.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-11",
-    "sourceName": "54492-11.jpg",
-    "outputName": "54492-11.jpg",
-    "bytes": 1892095,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-11.jpg"
+    "collection": "barros",
+    "sku": "84298-9",
+    "sourceName": "84298-9.jpg",
+    "outputName": "84298-9.jpg",
+    "bytes": 791140,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-9.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-12",
-    "sourceName": "54492-12.jpg",
-    "outputName": "54492-12.jpg",
-    "bytes": 1861756,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-12.jpg"
+    "collection": "barros",
+    "sku": "84298-10",
+    "sourceName": "84298-10.jpg",
+    "outputName": "84298-10.jpg",
+    "bytes": 926189,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-10.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-13",
-    "sourceName": "54492-13.jpg",
-    "outputName": "54492-13.jpg",
-    "bytes": 1911559,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-13.jpg"
+    "collection": "barros",
+    "sku": "84298-11",
+    "sourceName": "84298-11.jpg",
+    "outputName": "84298-11.jpg",
+    "bytes": 1089818,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84298-11.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-14",
-    "sourceName": "54492-14.jpg",
-    "outputName": "54492-14.jpg",
-    "bytes": 1728748,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-14.jpg"
+    "collection": "barros",
+    "sku": "84299-1",
+    "sourceName": "84299-1.jpg",
+    "outputName": "84299-1.jpg",
+    "bytes": 359853,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-1.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-15",
-    "sourceName": "54492-15.jpg",
-    "outputName": "54492-15.jpg",
-    "bytes": 1790189,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-15.jpg"
+    "collection": "barros",
+    "sku": "84299-2",
+    "sourceName": "84299-2.jpg",
+    "outputName": "84299-2.jpg",
+    "bytes": 445961,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-2.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-16",
-    "sourceName": "54492-16.jpg",
-    "outputName": "54492-16.jpg",
-    "bytes": 1942860,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-16.jpg"
+    "collection": "barros",
+    "sku": "84299-3",
+    "sourceName": "84299-3.jpg",
+    "outputName": "84299-3.jpg",
+    "bytes": 476950,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-3.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-17",
-    "sourceName": "54492-17.jpg",
-    "outputName": "54492-17.jpg",
-    "bytes": 1671804,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-17.jpg"
+    "collection": "barros",
+    "sku": "84299-4",
+    "sourceName": "84299-4.jpg",
+    "outputName": "84299-4.jpg",
+    "bytes": 259283,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-4.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-18",
-    "sourceName": "54492-18.jpg",
-    "outputName": "54492-18.jpg",
-    "bytes": 1774722,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-18.jpg"
+    "collection": "barros",
+    "sku": "84299-5",
+    "sourceName": "84299-5.jpg",
+    "outputName": "84299-5.jpg",
+    "bytes": 614800,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-5.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54492-19",
-    "sourceName": "54492-19.jpg",
-    "outputName": "54492-19.jpg",
-    "bytes": 1431925,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54492-19.jpg"
+    "collection": "barros",
+    "sku": "84299-6",
+    "sourceName": "84299-6.jpg",
+    "outputName": "84299-6.jpg",
+    "bytes": 612997,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-6.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-1",
-    "sourceName": "54493-1.jpg",
-    "outputName": "54493-1.jpg",
-    "bytes": 430080,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-1.jpg"
+    "collection": "barros",
+    "sku": "84299-7",
+    "sourceName": "84299-7.jpg",
+    "outputName": "84299-7.jpg",
+    "bytes": 486118,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-7.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-2",
-    "sourceName": "54493-2.jpg",
-    "outputName": "54493-2.jpg",
-    "bytes": 418732,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-2.jpg"
+    "collection": "barros",
+    "sku": "84299-8",
+    "sourceName": "84299-8.jpg",
+    "outputName": "84299-8.jpg",
+    "bytes": 324204,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-8.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-3",
-    "sourceName": "54493-3.jpg",
-    "outputName": "54493-3.jpg",
-    "bytes": 515257,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-3.jpg"
+    "collection": "barros",
+    "sku": "84299-9",
+    "sourceName": "84299-9.jpg",
+    "outputName": "84299-9.jpg",
+    "bytes": 626193,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-9.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-4",
-    "sourceName": "54493-4.jpg",
-    "outputName": "54493-4.jpg",
-    "bytes": 545070,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-4.jpg"
+    "collection": "barros",
+    "sku": "84299-10",
+    "sourceName": "84299-10.jpg",
+    "outputName": "84299-10.jpg",
+    "bytes": 242292,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-10.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-5",
-    "sourceName": "54493-5.jpg",
-    "outputName": "54493-5.jpg",
-    "bytes": 603920,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-5.jpg"
+    "collection": "barros",
+    "sku": "84299-11",
+    "sourceName": "84299-11.jpg",
+    "outputName": "84299-11.jpg",
+    "bytes": 592081,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-11.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54493-6",
-    "sourceName": "54493-6.jpg",
-    "outputName": "54493-6.jpg",
-    "bytes": 1891391,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54493-6.jpg"
+    "collection": "barros",
+    "sku": "84299-12",
+    "sourceName": "84299-12.jpg",
+    "outputName": "84299-12.jpg",
+    "bytes": 574412,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-12.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-1",
-    "sourceName": "54494-1.jpg",
-    "outputName": "54494-1.jpg",
-    "bytes": 1755516,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-1.jpg"
+    "collection": "barros",
+    "sku": "84299-13",
+    "sourceName": "84299-13.jpg",
+    "outputName": "84299-13.jpg",
+    "bytes": 342929,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-13.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-2",
-    "sourceName": "54494-2.jpg",
-    "outputName": "54494-2.jpg",
-    "bytes": 1922589,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-2.jpg"
+    "collection": "barros",
+    "sku": "84299-14",
+    "sourceName": "84299-14.jpg",
+    "outputName": "84299-14.jpg",
+    "bytes": 382987,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-14.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-3",
-    "sourceName": "54494-3.jpg",
-    "outputName": "54494-3.jpg",
-    "bytes": 1969331,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-3.jpg"
+    "collection": "barros",
+    "sku": "84299-15",
+    "sourceName": "84299-15.jpg",
+    "outputName": "84299-15.jpg",
+    "bytes": 463353,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-15.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-4",
-    "sourceName": "54494-4.jpg",
-    "outputName": "54494-4.jpg",
-    "bytes": 1506813,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-4.jpg"
+    "collection": "barros",
+    "sku": "84299-16",
+    "sourceName": "84299-16.jpg",
+    "outputName": "84299-16.jpg",
+    "bytes": 519710,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-16.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-5",
-    "sourceName": "54494-5.jpg",
-    "outputName": "54494-5.jpg",
-    "bytes": 1580459,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-5.jpg"
+    "collection": "barros",
+    "sku": "84299-17",
+    "sourceName": "84299-17.jpg",
+    "outputName": "84299-17.jpg",
+    "bytes": 496975,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/barros/84299-17.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-6",
-    "sourceName": "54494-6.jpg",
-    "outputName": "54494-6.jpg",
-    "bytes": 1488565,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-6.jpg"
+    "collection": "keen",
+    "sku": "KE1001",
+    "sourceName": "KE1001_rapport.jpg",
+    "outputName": "KE1001.jpg",
+    "bytes": 1242527,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1001.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-7",
-    "sourceName": "54494-7.jpg",
-    "outputName": "54494-7.jpg",
-    "bytes": 1533778,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-7.jpg"
+    "collection": "keen",
+    "sku": "KE1002",
+    "sourceName": "KE1002_rapport.jpg",
+    "outputName": "KE1002.jpg",
+    "bytes": 393696,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1002.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-8",
-    "sourceName": "54494-8.jpg",
-    "outputName": "54494-8.jpg",
-    "bytes": 1834757,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-8.jpg"
+    "collection": "keen",
+    "sku": "KE1003",
+    "sourceName": "KE1003_rapport.jpg",
+    "outputName": "KE1003.jpg",
+    "bytes": 378561,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1003.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-9",
-    "sourceName": "54494-9.jpg",
-    "outputName": "54494-9.jpg",
-    "bytes": 1671689,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-9.jpg"
+    "collection": "keen",
+    "sku": "KE1004",
+    "sourceName": "KE1004_rapport.jpg",
+    "outputName": "KE1004.jpg",
+    "bytes": 390547,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1004.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-10",
-    "sourceName": "54494-10.jpg",
-    "outputName": "54494-10.jpg",
-    "bytes": 1805193,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-10.jpg"
+    "collection": "keen",
+    "sku": "KE1005",
+    "sourceName": "KE1005_rapport.jpg",
+    "outputName": "KE1005.jpg",
+    "bytes": 1382751,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1005.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-11",
-    "sourceName": "54494-11.jpg",
-    "outputName": "54494-11.jpg",
-    "bytes": 1809032,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-11.jpg"
+    "collection": "keen",
+    "sku": "KE1006",
+    "sourceName": "KE1006_rapport.jpg",
+    "outputName": "KE1006.jpg",
+    "bytes": 832954,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1006.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-12",
-    "sourceName": "54494-12.jpg",
-    "outputName": "54494-12.jpg",
-    "bytes": 1782588,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-12.jpg"
+    "collection": "keen",
+    "sku": "KE1007",
+    "sourceName": "KE1007_rapport.jpg",
+    "outputName": "KE1007.jpg",
+    "bytes": 1128061,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1007.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54494-13",
-    "sourceName": "54494-13.jpg",
-    "outputName": "54494-13.jpg",
-    "bytes": 1945261,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54494-13.jpg"
+    "collection": "keen",
+    "sku": "KE1008",
+    "sourceName": "KE1008_rapport.jpg",
+    "outputName": "KE1008.jpg",
+    "bytes": 943480,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1008.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-1",
-    "sourceName": "54495-1.jpg",
-    "outputName": "54495-1.jpg",
-    "bytes": 1638466,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-1.jpg"
+    "collection": "keen",
+    "sku": "KE1009",
+    "sourceName": "KE1009_rapport.jpg",
+    "outputName": "KE1009.jpg",
+    "bytes": 1216561,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1009.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-2",
-    "sourceName": "54495-2.jpg",
-    "outputName": "54495-2.jpg",
-    "bytes": 413880,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-2.jpg"
+    "collection": "keen",
+    "sku": "KE1010",
+    "sourceName": "KE1010_rapport.jpg",
+    "outputName": "KE1010.jpg",
+    "bytes": 418369,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1010.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-3",
-    "sourceName": "54495-3.jpg",
-    "outputName": "54495-3.jpg",
-    "bytes": 474551,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-3.jpg"
+    "collection": "keen",
+    "sku": "KE1105",
+    "sourceName": "KE1105_rapport.jpg",
+    "outputName": "KE1105.jpg",
+    "bytes": 741482,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1105.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-4",
-    "sourceName": "54495-4.jpg",
-    "outputName": "54495-4.jpg",
-    "bytes": 587119,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-4.jpg"
+    "collection": "keen",
+    "sku": "KE1107",
+    "sourceName": "KE1107_rapport.jpg",
+    "outputName": "KE1107.jpg",
+    "bytes": 693458,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1107.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-5",
-    "sourceName": "54495-5.jpg",
-    "outputName": "54495-5.jpg",
-    "bytes": 1855196,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-5.jpg"
+    "collection": "keen",
+    "sku": "KE1108",
+    "sourceName": "KE1108_rapport.jpg",
+    "outputName": "KE1108.jpg",
+    "bytes": 615642,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1108.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-6",
-    "sourceName": "54495-6.jpg",
-    "outputName": "54495-6.jpg",
-    "bytes": 514320,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-6.jpg"
+    "collection": "keen",
+    "sku": "KE1109",
+    "sourceName": "KE1109_rapport.jpg",
+    "outputName": "KE1109.jpg",
+    "bytes": 640167,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1109.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-7",
-    "sourceName": "54495-7.jpg",
-    "outputName": "54495-7.jpg",
-    "bytes": 501473,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-7.jpg"
+    "collection": "keen",
+    "sku": "KE1110",
+    "sourceName": "KE1110_rapport.jpg",
+    "outputName": "KE1110.jpg",
+    "bytes": 757280,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1110.jpg"
   },
   {
-    "collection": "bocca",
-    "sku": "54495-8",
-    "sourceName": "54495-8.jpg",
-    "outputName": "54495-8.jpg",
-    "bytes": 534957,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bocca/54495-8.jpg"
+    "collection": "keen",
+    "sku": "KE1201",
+    "sourceName": "KE1201_rapport.jpg",
+    "outputName": "KE1201.jpg",
+    "bytes": 1145885,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1201.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-1",
-    "sourceName": "54496-1_l.jpg",
-    "outputName": "54496-1.jpg",
-    "bytes": 461623,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-1.jpg"
+    "collection": "keen",
+    "sku": "KE1202",
+    "sourceName": "KE1202_rapport.jpg",
+    "outputName": "KE1202.jpg",
+    "bytes": 1429499,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1202.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-2",
-    "sourceName": "54496-2_l.jpg",
-    "outputName": "54496-2.jpg",
-    "bytes": 517075,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-2.jpg"
+    "collection": "keen",
+    "sku": "KE1203",
+    "sourceName": "KE1203_rapport.jpg",
+    "outputName": "KE1203.jpg",
+    "bytes": 1375964,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1203.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-3",
-    "sourceName": "54496-3_l.jpg",
-    "outputName": "54496-3.jpg",
-    "bytes": 540673,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-3.jpg"
+    "collection": "keen",
+    "sku": "KE1204",
+    "sourceName": "KE1204_rapport.jpg",
+    "outputName": "KE1204.jpg",
+    "bytes": 499819,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1204.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-4",
-    "sourceName": "54496-4_l.jpg",
-    "outputName": "54496-4.jpg",
-    "bytes": 578900,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-4.jpg"
+    "collection": "keen",
+    "sku": "KE1212",
+    "sourceName": "KE1212_rapport.jpg",
+    "outputName": "KE1212.jpg",
+    "bytes": 1329907,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1212.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-5",
-    "sourceName": "54496-5_l.jpg",
-    "outputName": "54496-5.jpg",
-    "bytes": 776308,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-5.jpg"
+    "collection": "keen",
+    "sku": "KE1213",
+    "sourceName": "KE1213_rapport.jpg",
+    "outputName": "KE1213.jpg",
+    "bytes": 1296554,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1213.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-6",
-    "sourceName": "54496-6_l.jpg",
-    "outputName": "54496-6.jpg",
-    "bytes": 502425,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-6.jpg"
+    "collection": "keen",
+    "sku": "KE1301",
+    "sourceName": "KE1301_rapport.jpg",
+    "outputName": "KE1301.jpg",
+    "bytes": 835449,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1301.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-7",
-    "sourceName": "54496-7_l.jpg",
-    "outputName": "54496-7.jpg",
-    "bytes": 480430,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-7.jpg"
+    "collection": "keen",
+    "sku": "KE1302",
+    "sourceName": "KE1302_rapport.jpg",
+    "outputName": "KE1302.jpg",
+    "bytes": 1080937,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1302.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-8",
-    "sourceName": "54496-8_l.jpg",
-    "outputName": "54496-8.jpg",
-    "bytes": 538563,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-8.jpg"
+    "collection": "keen",
+    "sku": "KE1303",
+    "sourceName": "KE1303_rapport.jpg",
+    "outputName": "KE1303.jpg",
+    "bytes": 1080984,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1303.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-9",
-    "sourceName": "54496-9_l.jpg",
-    "outputName": "54496-9.jpg",
-    "bytes": 614350,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-9.jpg"
+    "collection": "keen",
+    "sku": "KE1304",
+    "sourceName": "KE1304_rapport.jpg",
+    "outputName": "KE1304.jpg",
+    "bytes": 1208940,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1304.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-10",
-    "sourceName": "54496-10_l.jpg",
-    "outputName": "54496-10.jpg",
-    "bytes": 558220,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-10.jpg"
+    "collection": "keen",
+    "sku": "KE1305",
+    "sourceName": "KE1305_rapport.jpg",
+    "outputName": "KE1305.jpg",
+    "bytes": 1241770,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1305.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-11",
-    "sourceName": "54496-11_l.jpg",
-    "outputName": "54496-11.jpg",
-    "bytes": 621496,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-11.jpg"
+    "collection": "keen",
+    "sku": "KE1306",
+    "sourceName": "KE1306_rapport.jpg",
+    "outputName": "KE1306.jpg",
+    "bytes": 554985,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1306.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-12",
-    "sourceName": "54496-12_l.jpg",
-    "outputName": "54496-12.jpg",
-    "bytes": 623741,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-12.jpg"
+    "collection": "keen",
+    "sku": "KE1307",
+    "sourceName": "KE1307_rapport.jpg",
+    "outputName": "KE1307.jpg",
+    "bytes": 947391,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE1307.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-13",
-    "sourceName": "54496-13_l.jpg",
-    "outputName": "54496-13.jpg",
-    "bytes": 458659,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-13.jpg"
+    "collection": "keen",
+    "sku": "KE3001",
+    "sourceName": "KE3001_rapport.jpg",
+    "outputName": "KE3001.jpg",
+    "bytes": 1346551,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3001.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-14",
-    "sourceName": "54496-14_l.jpg",
-    "outputName": "54496-14.jpg",
-    "bytes": 539085,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-14.jpg"
+    "collection": "keen",
+    "sku": "KE3002",
+    "sourceName": "KE3002_rapport.jpg",
+    "outputName": "KE3002.jpg",
+    "bytes": 1468865,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3002.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-15",
-    "sourceName": "54496-15_l.jpg",
-    "outputName": "54496-15.jpg",
-    "bytes": 613618,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-15.jpg"
+    "collection": "keen",
+    "sku": "KE3003",
+    "sourceName": "KE3003_rapport.jpg",
+    "outputName": "KE3003.jpg",
+    "bytes": 584828,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3003.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-16",
-    "sourceName": "54496-16_l.jpg",
-    "outputName": "54496-16.jpg",
-    "bytes": 653515,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-16.jpg"
+    "collection": "keen",
+    "sku": "KE3004",
+    "sourceName": "KE3004_rapport.jpg",
+    "outputName": "KE3004.jpg",
+    "bytes": 613564,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3004.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54496-17",
-    "sourceName": "54496-17_l.jpg",
-    "outputName": "54496-17.jpg",
-    "bytes": 560644,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54496-17.jpg"
+    "collection": "keen",
+    "sku": "KE3101",
+    "sourceName": "KE3101_rapport.jpg",
+    "outputName": "KE3101.jpg",
+    "bytes": 1022634,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3101.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-1",
-    "sourceName": "54497-1_l.jpg",
-    "outputName": "54497-1.jpg",
-    "bytes": 520650,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-1.jpg"
+    "collection": "keen",
+    "sku": "KE3102",
+    "sourceName": "KE3102_rapport.jpg",
+    "outputName": "KE3102.jpg",
+    "bytes": 437978,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3102.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-2",
-    "sourceName": "54497-2_l.jpg",
-    "outputName": "54497-2.jpg",
-    "bytes": 516698,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-2.jpg"
+    "collection": "keen",
+    "sku": "KE3103",
+    "sourceName": "KE3103_rapport.jpg",
+    "outputName": "KE3103.jpg",
+    "bytes": 438389,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3103.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-3",
-    "sourceName": "54497-3_l.jpg",
-    "outputName": "54497-3.jpg",
-    "bytes": 573912,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-3.jpg"
+    "collection": "keen",
+    "sku": "KE3104",
+    "sourceName": "KE3104_rapport.jpg",
+    "outputName": "KE3104.jpg",
+    "bytes": 739612,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3104.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-4",
-    "sourceName": "54497-4_l.jpg",
-    "outputName": "54497-4.jpg",
-    "bytes": 454329,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-4.jpg"
+    "collection": "keen",
+    "sku": "KE3201",
+    "sourceName": "KE3201_rapport.jpg",
+    "outputName": "KE3201.jpg",
+    "bytes": 838316,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3201.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-5",
-    "sourceName": "54497-5_l.jpg",
-    "outputName": "54497-5.jpg",
-    "bytes": 534108,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-5.jpg"
+    "collection": "keen",
+    "sku": "KE3202",
+    "sourceName": "KE3202_rapport.jpg",
+    "outputName": "KE3202.jpg",
+    "bytes": 1123847,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3202.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54497-6",
-    "sourceName": "54497-6_l.jpg",
-    "outputName": "54497-6.jpg",
-    "bytes": 439429,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54497-6.jpg"
+    "collection": "keen",
+    "sku": "KE3203",
+    "sourceName": "KE3203_rapport.jpg",
+    "outputName": "KE3203.jpg",
+    "bytes": 1027121,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3203.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-1",
-    "sourceName": "54498-1_l.jpg",
-    "outputName": "54498-1.jpg",
-    "bytes": 584131,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-1.jpg"
+    "collection": "keen",
+    "sku": "KE3204",
+    "sourceName": "KE3204_rapport.jpg",
+    "outputName": "KE3204.jpg",
+    "bytes": 1205140,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3204.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-2",
-    "sourceName": "54498-2_l.jpg",
-    "outputName": "54498-2.jpg",
-    "bytes": 479979,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-2.jpg"
+    "collection": "keen",
+    "sku": "KE3205",
+    "sourceName": "KE3205_rapport.jpg",
+    "outputName": "KE3205.jpg",
+    "bytes": 510114,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/keen/KE3205.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-3",
-    "sourceName": "54498-3_l.jpg",
-    "outputName": "54498-3.jpg",
-    "bytes": 559423,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-3.jpg"
+    "collection": "nuvia",
+    "sku": "36701",
+    "sourceName": "36701_rapport.jpg",
+    "outputName": "36701.jpg",
+    "bytes": 137208,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36701.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-4",
-    "sourceName": "54498-4_l.jpg",
-    "outputName": "54498-4.jpg",
-    "bytes": 766060,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-4.jpg"
+    "collection": "nuvia",
+    "sku": "36702",
+    "sourceName": "36702_rapport.jpg",
+    "outputName": "36702.jpg",
+    "bytes": 148691,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36702.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-5",
-    "sourceName": "54498-5_l.jpg",
-    "outputName": "54498-5.jpg",
-    "bytes": 1065910,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-5.jpg"
+    "collection": "nuvia",
+    "sku": "36703",
+    "sourceName": "36703_rapport.jpg",
+    "outputName": "36703.jpg",
+    "bytes": 133982,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36703.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-6",
-    "sourceName": "54498-6_l.jpg",
-    "outputName": "54498-6.jpg",
-    "bytes": 642418,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-6.jpg"
+    "collection": "nuvia",
+    "sku": "36704",
+    "sourceName": "36704_rapport.jpg",
+    "outputName": "36704.jpg",
+    "bytes": 120587,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36704.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-7",
-    "sourceName": "54498-7_l.jpg",
-    "outputName": "54498-7.jpg",
-    "bytes": 695626,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-7.jpg"
+    "collection": "nuvia",
+    "sku": "36705",
+    "sourceName": "36705_rapport.jpg",
+    "outputName": "36705.jpg",
+    "bytes": 146498,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36705.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-8",
-    "sourceName": "54498-8_l.jpg",
-    "outputName": "54498-8.jpg",
-    "bytes": 720135,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-8.jpg"
+    "collection": "nuvia",
+    "sku": "36706",
+    "sourceName": "36706_rapport.jpg",
+    "outputName": "36706.jpg",
+    "bytes": 139242,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36706.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-9",
-    "sourceName": "54498-9_l.jpg",
-    "outputName": "54498-9.jpg",
-    "bytes": 842994,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-9.jpg"
+    "collection": "nuvia",
+    "sku": "36707",
+    "sourceName": "36707_rapport.jpg",
+    "outputName": "36707.jpg",
+    "bytes": 99388,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36707.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-10",
-    "sourceName": "54498-10_l.jpg",
-    "outputName": "54498-10.jpg",
-    "bytes": 547277,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-10.jpg"
+    "collection": "nuvia",
+    "sku": "36708",
+    "sourceName": "36708_rapport.jpg",
+    "outputName": "36708.jpg",
+    "bytes": 139583,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36708.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-11",
-    "sourceName": "54498-11_l.jpg",
-    "outputName": "54498-11.jpg",
-    "bytes": 521090,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-11.jpg"
+    "collection": "nuvia",
+    "sku": "36709",
+    "sourceName": "36709_rapport.jpg",
+    "outputName": "36709.jpg",
+    "bytes": 99529,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36709.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-12",
-    "sourceName": "54498-12_l.jpg",
-    "outputName": "54498-12.jpg",
-    "bytes": 647896,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-12.jpg"
+    "collection": "nuvia",
+    "sku": "36710",
+    "sourceName": "36710_rapport.jpg",
+    "outputName": "36710.jpg",
+    "bytes": 130118,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36710.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-13",
-    "sourceName": "54498-13_l.jpg",
-    "outputName": "54498-13.jpg",
-    "bytes": 733925,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-13.jpg"
+    "collection": "nuvia",
+    "sku": "36711",
+    "sourceName": "36711_rapport.jpg",
+    "outputName": "36711.jpg",
+    "bytes": 138823,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36711.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54498-14",
-    "sourceName": "54498-14_l.jpg",
-    "outputName": "54498-14.jpg",
-    "bytes": 672169,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54498-14.jpg"
+    "collection": "nuvia",
+    "sku": "36712",
+    "sourceName": "36712_rapport.jpg",
+    "outputName": "36712.jpg",
+    "bytes": 142407,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36712.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54499-1",
-    "sourceName": "54499-1_l.jpg",
-    "outputName": "54499-1.jpg",
-    "bytes": 396215,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-1.jpg"
+    "collection": "nuvia",
+    "sku": "36713",
+    "sourceName": "36713_rapport.jpg",
+    "outputName": "36713.jpg",
+    "bytes": 175803,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36713.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54499-2",
-    "sourceName": "54499-2_l.jpg",
-    "outputName": "54499-2.jpg",
-    "bytes": 544511,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-2.jpg"
+    "collection": "nuvia",
+    "sku": "36714",
+    "sourceName": "36714_rapport.jpg",
+    "outputName": "36714.jpg",
+    "bytes": 200566,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36714.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54499-3",
-    "sourceName": "54499-3_l.jpg",
-    "outputName": "54499-3.jpg",
-    "bytes": 546798,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-3.jpg"
+    "collection": "nuvia",
+    "sku": "36715",
+    "sourceName": "36715_rapport.jpg",
+    "outputName": "36715.jpg",
+    "bytes": 157461,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36715.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54499-4",
-    "sourceName": "54499-4_l.jpg",
-    "outputName": "54499-4.jpg",
-    "bytes": 515681,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-4.jpg"
+    "collection": "nuvia",
+    "sku": "36716",
+    "sourceName": "36716_rapport.jpg",
+    "outputName": "36716.jpg",
+    "bytes": 199739,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36716.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54499-5",
-    "sourceName": "54499-5_l.jpg",
-    "outputName": "54499-5.jpg",
-    "bytes": 844954,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54499-5.jpg"
+    "collection": "nuvia",
+    "sku": "36717",
+    "sourceName": "36717_rapport.jpg",
+    "outputName": "36717.jpg",
+    "bytes": 200475,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36717.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-1",
-    "sourceName": "54500-1_l.jpg",
-    "outputName": "54500-1.jpg",
-    "bytes": 145576,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-1.jpg"
+    "collection": "nuvia",
+    "sku": "36718",
+    "sourceName": "36718_rapport.jpg",
+    "outputName": "36718.jpg",
+    "bytes": 140111,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36718.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-2",
-    "sourceName": "54500-2_l.jpg",
-    "outputName": "54500-2.jpg",
-    "bytes": 517166,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-2.jpg"
+    "collection": "nuvia",
+    "sku": "36719",
+    "sourceName": "36719_rapport.jpg",
+    "outputName": "36719.jpg",
+    "bytes": 117616,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36719.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-3",
-    "sourceName": "54500-3_l.jpg",
-    "outputName": "54500-3.jpg",
-    "bytes": 604562,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-3.jpg"
+    "collection": "nuvia",
+    "sku": "36720",
+    "sourceName": "36720_rapport.jpg",
+    "outputName": "36720.jpg",
+    "bytes": 218425,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36720.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-4",
-    "sourceName": "54500-4_l.jpg",
-    "outputName": "54500-4.jpg",
-    "bytes": 671635,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-4.jpg"
+    "collection": "nuvia",
+    "sku": "36721",
+    "sourceName": "36721_rapport.jpg",
+    "outputName": "36721.jpg",
+    "bytes": 192713,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36721.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-5",
-    "sourceName": "54500-5_l.jpg",
-    "outputName": "54500-5.jpg",
-    "bytes": 666252,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-5.jpg"
+    "collection": "nuvia",
+    "sku": "36722",
+    "sourceName": "36722_rapport.jpg",
+    "outputName": "36722.jpg",
+    "bytes": 148670,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36722.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-6",
-    "sourceName": "54500-6_l.jpg",
-    "outputName": "54500-6.jpg",
-    "bytes": 736149,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-6.jpg"
+    "collection": "nuvia",
+    "sku": "36723",
+    "sourceName": "36723_rapport.jpg",
+    "outputName": "36723.jpg",
+    "bytes": 113173,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36723.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-7",
-    "sourceName": "54500-7_l.jpg",
-    "outputName": "54500-7.jpg",
-    "bytes": 457192,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-7.jpg"
+    "collection": "nuvia",
+    "sku": "36724",
+    "sourceName": "36724_rapport.jpg",
+    "outputName": "36724.jpg",
+    "bytes": 158342,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36724.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-8",
-    "sourceName": "54500-8_l.jpg",
-    "outputName": "54500-8.jpg",
-    "bytes": 541250,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-8.jpg"
+    "collection": "nuvia",
+    "sku": "36725",
+    "sourceName": "36725_rapport.jpg",
+    "outputName": "36725.jpg",
+    "bytes": 205444,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36725.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-9",
-    "sourceName": "54500-9_l.jpg",
-    "outputName": "54500-9.jpg",
-    "bytes": 660342,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-9.jpg"
+    "collection": "nuvia",
+    "sku": "36726",
+    "sourceName": "36726_rapport.jpg",
+    "outputName": "36726.jpg",
+    "bytes": 164064,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36726.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-10",
-    "sourceName": "54500-10_l.jpg",
-    "outputName": "54500-10.jpg",
-    "bytes": 555332,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-10.jpg"
+    "collection": "nuvia",
+    "sku": "36727",
+    "sourceName": "36727_rapport.jpg",
+    "outputName": "36727.jpg",
+    "bytes": 157726,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36727.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-11",
-    "sourceName": "54500-11_l.jpg",
-    "outputName": "54500-11.jpg",
-    "bytes": 629512,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-11.jpg"
+    "collection": "nuvia",
+    "sku": "36728",
+    "sourceName": "36728_rapport.jpg",
+    "outputName": "36728.jpg",
+    "bytes": 129732,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36728.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-12",
-    "sourceName": "54500-12_l.jpg",
-    "outputName": "54500-12.jpg",
-    "bytes": 790796,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-12.jpg"
+    "collection": "nuvia",
+    "sku": "36729",
+    "sourceName": "36729_rapport.jpg",
+    "outputName": "36729.jpg",
+    "bytes": 142988,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36729.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-13",
-    "sourceName": "54500-13_l.jpg",
-    "outputName": "54500-13.jpg",
-    "bytes": 633824,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-13.jpg"
+    "collection": "nuvia",
+    "sku": "36730",
+    "sourceName": "36730_rapport.jpg",
+    "outputName": "36730.jpg",
+    "bytes": 149818,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36730.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-14",
-    "sourceName": "54500-14_l.jpg",
-    "outputName": "54500-14.jpg",
-    "bytes": 712015,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-14.jpg"
+    "collection": "nuvia",
+    "sku": "36731",
+    "sourceName": "36731_rapport.jpg",
+    "outputName": "36731.jpg",
+    "bytes": 145679,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36731.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-15",
-    "sourceName": "54500-15_l.jpg",
-    "outputName": "54500-15.jpg",
-    "bytes": 526884,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-15.jpg"
+    "collection": "nuvia",
+    "sku": "36732",
+    "sourceName": "36732_rapport.jpg",
+    "outputName": "36732.jpg",
+    "bytes": 204673,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36732.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-16",
-    "sourceName": "54500-16_l.jpg",
-    "outputName": "54500-16.jpg",
-    "bytes": 570545,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-16.jpg"
+    "collection": "nuvia",
+    "sku": "36733",
+    "sourceName": "36733_rapport.jpg",
+    "outputName": "36733.jpg",
+    "bytes": 177693,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36733.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-17",
-    "sourceName": "54500-17_l.jpg",
-    "outputName": "54500-17.jpg",
-    "bytes": 594905,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-17.jpg"
+    "collection": "nuvia",
+    "sku": "36734",
+    "sourceName": "36734_rapport.jpg",
+    "outputName": "36734.jpg",
+    "bytes": 184931,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36734.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-18",
-    "sourceName": "54500-18_l.jpg",
-    "outputName": "54500-18.jpg",
-    "bytes": 652967,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-18.jpg"
+    "collection": "nuvia",
+    "sku": "36735",
+    "sourceName": "36735_rapport.jpg",
+    "outputName": "36735.jpg",
+    "bytes": 195554,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36735.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-19",
-    "sourceName": "54500-19_l.jpg",
-    "outputName": "54500-19.jpg",
-    "bytes": 496170,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-19.jpg"
+    "collection": "nuvia",
+    "sku": "36736",
+    "sourceName": "36736_rapport.jpg",
+    "outputName": "36736.jpg",
+    "bytes": 211529,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36736.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-20",
-    "sourceName": "54500-20_l.jpg",
-    "outputName": "54500-20.jpg",
-    "bytes": 486256,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-20.jpg"
+    "collection": "nuvia",
+    "sku": "36737",
+    "sourceName": "36737_rapport.jpg",
+    "outputName": "36737.jpg",
+    "bytes": 162187,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36737.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-21",
-    "sourceName": "54500-21_l.jpg",
-    "outputName": "54500-21.jpg",
-    "bytes": 683498,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-21.jpg"
+    "collection": "nuvia",
+    "sku": "36738",
+    "sourceName": "36738_rapport.jpg",
+    "outputName": "36738.jpg",
+    "bytes": 167836,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36738.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-22",
-    "sourceName": "54500-22_l.jpg",
-    "outputName": "54500-22.jpg",
-    "bytes": 707863,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-22.jpg"
+    "collection": "nuvia",
+    "sku": "36739",
+    "sourceName": "36739_rapport.jpg",
+    "outputName": "36739.jpg",
+    "bytes": 206256,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36739.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-23",
-    "sourceName": "54500-23_l.jpg",
-    "outputName": "54500-23.jpg",
-    "bytes": 699624,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-23.jpg"
+    "collection": "nuvia",
+    "sku": "36740",
+    "sourceName": "36740_rapport.jpg",
+    "outputName": "36740.jpg",
+    "bytes": 235997,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36740.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-24",
-    "sourceName": "54500-24_l.jpg",
-    "outputName": "54500-24.jpg",
-    "bytes": 674296,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-24.jpg"
+    "collection": "nuvia",
+    "sku": "36741",
+    "sourceName": "36741_rapport.jpg",
+    "outputName": "36741.jpg",
+    "bytes": 205802,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36741.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-25",
-    "sourceName": "54500-25_l.jpg",
-    "outputName": "54500-25.jpg",
-    "bytes": 775217,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-25.jpg"
+    "collection": "nuvia",
+    "sku": "36742",
+    "sourceName": "36742_rapport.jpg",
+    "outputName": "36742.jpg",
+    "bytes": 223934,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36742.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-26",
-    "sourceName": "54500-26_l.jpg",
-    "outputName": "54500-26.jpg",
-    "bytes": 823430,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-26.jpg"
+    "collection": "nuvia",
+    "sku": "36743",
+    "sourceName": "36743_rapport.jpg",
+    "outputName": "36743.jpg",
+    "bytes": 251053,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36743.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-27",
-    "sourceName": "54500-27_l.jpg",
-    "outputName": "54500-27.jpg",
-    "bytes": 559459,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-27.jpg"
+    "collection": "nuvia",
+    "sku": "36744",
+    "sourceName": "36744_rapport.jpg",
+    "outputName": "36744.jpg",
+    "bytes": 281595,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36744.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-28",
-    "sourceName": "54500-28_l.jpg",
-    "outputName": "54500-28.jpg",
-    "bytes": 634680,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-28.jpg"
+    "collection": "nuvia",
+    "sku": "36745",
+    "sourceName": "36745_rapport.jpg",
+    "outputName": "36745.jpg",
+    "bytes": 294292,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36745.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-29",
-    "sourceName": "54500-29_l.jpg",
-    "outputName": "54500-29.jpg",
-    "bytes": 739707,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-29.jpg"
+    "collection": "nuvia",
+    "sku": "36746",
+    "sourceName": "36746_rapport.jpg",
+    "outputName": "36746.jpg",
+    "bytes": 279407,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36746.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-30",
-    "sourceName": "54500-30_l.jpg",
-    "outputName": "54500-30.jpg",
-    "bytes": 670989,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-30.jpg"
+    "collection": "nuvia",
+    "sku": "36747",
+    "sourceName": "36747_rapport.jpg",
+    "outputName": "36747.jpg",
+    "bytes": 296056,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36747.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-31",
-    "sourceName": "54500-31_l.jpg",
-    "outputName": "54500-31.jpg",
-    "bytes": 424855,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-31.jpg"
+    "collection": "nuvia",
+    "sku": "36792",
+    "sourceName": "36792_rapport.jpg",
+    "outputName": "36792.jpg",
+    "bytes": 180380,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36792.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-32",
-    "sourceName": "54500-32_l.jpg",
-    "outputName": "54500-32.jpg",
-    "bytes": 593333,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-32.jpg"
+    "collection": "nuvia",
+    "sku": "36794",
+    "sourceName": "36794_rapport.jpg",
+    "outputName": "36794.jpg",
+    "bytes": 140153,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36794.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-33",
-    "sourceName": "54500-33_l.jpg",
-    "outputName": "54500-33.jpg",
-    "bytes": 820119,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-33.jpg"
+    "collection": "nuvia",
+    "sku": "36795",
+    "sourceName": "36795_rapport.jpg",
+    "outputName": "36795.jpg",
+    "bytes": 368142,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36795.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-34",
-    "sourceName": "54500-34_l.jpg",
-    "outputName": "54500-34.jpg",
-    "bytes": 497922,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-34.jpg"
+    "collection": "nuvia",
+    "sku": "36797",
+    "sourceName": "36797_rapport.jpg",
+    "outputName": "36797.jpg",
+    "bytes": 326356,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36797.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-35",
-    "sourceName": "54500-35_l.jpg",
-    "outputName": "54500-35.jpg",
-    "bytes": 552284,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-35.jpg"
+    "collection": "nuvia",
+    "sku": "36798",
+    "sourceName": "36798_rapport.jpg",
+    "outputName": "36798.jpg",
+    "bytes": 280608,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36798.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-36",
-    "sourceName": "54500-36_l.jpg",
-    "outputName": "54500-36.jpg",
-    "bytes": 612014,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-36.jpg"
+    "collection": "nuvia",
+    "sku": "36799",
+    "sourceName": "36799_rapport.jpg",
+    "outputName": "36799.jpg",
+    "bytes": 239347,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/nuvia/36799.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-37",
-    "sourceName": "54500-37_l.jpg",
-    "outputName": "54500-37.jpg",
-    "bytes": 712482,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-37.jpg"
+    "collection": "sylva",
+    "sku": "36801",
+    "sourceName": "36801_rapport.jpg",
+    "outputName": "36801.jpg",
+    "bytes": 519827,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36801.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54500-38",
-    "sourceName": "54500-38_l.jpg",
-    "outputName": "54500-38.jpg",
-    "bytes": 924063,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54500-38.jpg"
+    "collection": "sylva",
+    "sku": "36802",
+    "sourceName": "36802_rapport.jpg",
+    "outputName": "36802.jpg",
+    "bytes": 581034,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36802.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54501-1",
-    "sourceName": "54501-1_l.jpg",
-    "outputName": "54501-1.jpg",
-    "bytes": 287617,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-1.jpg"
+    "collection": "sylva",
+    "sku": "36803",
+    "sourceName": "36803_rapport.jpg",
+    "outputName": "36803.jpg",
+    "bytes": 656118,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36803.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54501-2",
-    "sourceName": "54501-2_l.jpg",
-    "outputName": "54501-2.jpg",
-    "bytes": 361336,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-2.jpg"
+    "collection": "sylva",
+    "sku": "36804",
+    "sourceName": "36804_rapport.jpg",
+    "outputName": "36804.jpg",
+    "bytes": 521606,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36804.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54501-3",
-    "sourceName": "54501-3_l.jpg",
-    "outputName": "54501-3.jpg",
-    "bytes": 430512,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54501-3.jpg"
+    "collection": "sylva",
+    "sku": "36805",
+    "sourceName": "36805_rapport.jpg",
+    "outputName": "36805.jpg",
+    "bytes": 399192,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36805.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54502-1",
-    "sourceName": "54502-1_l.jpg",
-    "outputName": "54502-1.jpg",
-    "bytes": 445571,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-1.jpg"
+    "collection": "sylva",
+    "sku": "36806",
+    "sourceName": "36806_rapport.jpg",
+    "outputName": "36806.jpg",
+    "bytes": 716264,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36806.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54502-2",
-    "sourceName": "54502-2_l.jpg",
-    "outputName": "54502-2.jpg",
-    "bytes": 457303,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-2.jpg"
+    "collection": "sylva",
+    "sku": "36807",
+    "sourceName": "36807_rapport.jpg",
+    "outputName": "36807.jpg",
+    "bytes": 794234,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36807.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54502-3",
-    "sourceName": "54502-3_l.jpg",
-    "outputName": "54502-3.jpg",
-    "bytes": 477480,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-3.jpg"
+    "collection": "sylva",
+    "sku": "36808",
+    "sourceName": "36808_rapport.jpg",
+    "outputName": "36808.jpg",
+    "bytes": 591377,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36808.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54502-4",
-    "sourceName": "54502-4_l.jpg",
-    "outputName": "54502-4.jpg",
-    "bytes": 549951,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-4.jpg"
+    "collection": "sylva",
+    "sku": "36809",
+    "sourceName": "36809_rapport.jpg",
+    "outputName": "36809.jpg",
+    "bytes": 713431,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36809.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54502-5",
-    "sourceName": "54502-5_l.jpg",
-    "outputName": "54502-5.jpg",
-    "bytes": 541260,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54502-5.jpg"
+    "collection": "sylva",
+    "sku": "36810",
+    "sourceName": "36810_rapport.jpg",
+    "outputName": "36810.jpg",
+    "bytes": 757083,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36810.jpg"
   },
   {
-    "collection": "spectrum-new",
-    "sku": "54503-1",
-    "sourceName": "54503-1_l.jpg",
-    "outputName": "54503-1.jpg",
-    "bytes": 787849,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-1.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54503-2",
-    "sourceName": "54503-2_l.jpg",
-    "outputName": "54503-2.jpg",
-    "bytes": 876497,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-2.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54503-3",
-    "sourceName": "54503-3_l.jpg",
-    "outputName": "54503-3.jpg",
-    "bytes": 925885,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54503-3.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54504-1",
-    "sourceName": "54504-1_l.jpg",
-    "outputName": "54504-1.jpg",
-    "bytes": 329232,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-1.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54504-2",
-    "sourceName": "54504-2_l.jpg",
-    "outputName": "54504-2.jpg",
-    "bytes": 283757,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-2.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54504-3",
-    "sourceName": "54504-3_l.jpg",
-    "outputName": "54504-3.jpg",
-    "bytes": 338034,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-3.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54504-4",
-    "sourceName": "54504-4_l.jpg",
-    "outputName": "54504-4.jpg",
-    "bytes": 413109,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-4.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54504-5",
-    "sourceName": "54504-5_l.jpg",
-    "outputName": "54504-5.jpg",
-    "bytes": 413433,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54504-5.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54505-1",
-    "sourceName": "54505-1_l.jpg",
-    "outputName": "54505-1.jpg",
-    "bytes": 342283,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-1.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54505-2",
-    "sourceName": "54505-2_l.jpg",
-    "outputName": "54505-2.jpg",
-    "bytes": 321294,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-2.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54505-3",
-    "sourceName": "54505-3_l.jpg",
-    "outputName": "54505-3.jpg",
-    "bytes": 351032,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-3.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54505-4",
-    "sourceName": "54505-4_l.jpg",
-    "outputName": "54505-4.jpg",
-    "bytes": 403224,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-4.jpg"
-  },
-  {
-    "collection": "spectrum-new",
-    "sku": "54505-5",
-    "sourceName": "54505-5_l.jpg",
-    "outputName": "54505-5.jpg",
-    "bytes": 424146,
-    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/spectrum-new/54505-5.jpg"
+    "collection": "sylva",
+    "sku": "36811",
+    "sourceName": "36811_rapport.jpg",
+    "outputName": "36811.jpg",
+    "bytes": 359471,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36811.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36812",
+    "sourceName": "36812_rapport.jpg",
+    "outputName": "36812.jpg",
+    "bytes": 503668,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36812.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36813",
+    "sourceName": "36813_rapport.jpg",
+    "outputName": "36813.jpg",
+    "bytes": 548906,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36813.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36814",
+    "sourceName": "36814_rapport.jpg",
+    "outputName": "36814.jpg",
+    "bytes": 264075,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36814.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36815",
+    "sourceName": "36815_rapport.jpg",
+    "outputName": "36815.jpg",
+    "bytes": 383840,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36815.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36816",
+    "sourceName": "36816_rapport.jpg",
+    "outputName": "36816.jpg",
+    "bytes": 462771,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36816.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36817",
+    "sourceName": "36817_rapport.jpg",
+    "outputName": "36817.jpg",
+    "bytes": 516569,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36817.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36818",
+    "sourceName": "36818_rapport.jpg",
+    "outputName": "36818.jpg",
+    "bytes": 718944,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36818.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36819",
+    "sourceName": "36819_rapport.jpg",
+    "outputName": "36819.jpg",
+    "bytes": 539982,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36819.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36820",
+    "sourceName": "36820_rapport.jpg",
+    "outputName": "36820.jpg",
+    "bytes": 763148,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36820.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36821",
+    "sourceName": "36821_rapport.jpg",
+    "outputName": "36821.jpg",
+    "bytes": 748459,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36821.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36822",
+    "sourceName": "36822_rapport.jpg",
+    "outputName": "36822.jpg",
+    "bytes": 229877,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36822.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36823",
+    "sourceName": "36823_rapport.jpg",
+    "outputName": "36823.jpg",
+    "bytes": 277174,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36823.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36824",
+    "sourceName": "36824_rapport.jpg",
+    "outputName": "36824.jpg",
+    "bytes": 169954,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36824.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36825",
+    "sourceName": "36825_rapport.jpg",
+    "outputName": "36825.jpg",
+    "bytes": 216662,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36825.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36826",
+    "sourceName": "36826_rapport.jpg",
+    "outputName": "36826.jpg",
+    "bytes": 196862,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36826.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36827",
+    "sourceName": "36827_rapport.jpg",
+    "outputName": "36827.jpg",
+    "bytes": 180328,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36827.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36828",
+    "sourceName": "36828_rapport.jpg",
+    "outputName": "36828.jpg",
+    "bytes": 241032,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36828.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36829",
+    "sourceName": "36829_rapport.jpg",
+    "outputName": "36829.jpg",
+    "bytes": 247887,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36829.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36830",
+    "sourceName": "36830_rapport.jpg",
+    "outputName": "36830.jpg",
+    "bytes": 301193,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36830.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36831",
+    "sourceName": "36831_rapport.jpg",
+    "outputName": "36831.jpg",
+    "bytes": 316910,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36831.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36832",
+    "sourceName": "36832_rapport.jpg",
+    "outputName": "36832.jpg",
+    "bytes": 359657,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36832.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36896",
+    "sourceName": "36896_rapport.jpg",
+    "outputName": "36896.jpg",
+    "bytes": 384844,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36896.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36897",
+    "sourceName": "36897_rapport.jpg",
+    "outputName": "36897.jpg",
+    "bytes": 390866,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36897.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36898",
+    "sourceName": "36898_rapport.jpg",
+    "outputName": "36898.jpg",
+    "bytes": 298641,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36898.jpg"
+  },
+  {
+    "collection": "sylva",
+    "sku": "36899",
+    "sourceName": "36899_rapport.jpg",
+    "outputName": "36899.jpg",
+    "bytes": 489961,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/sylva/36899.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36350",
+    "sourceName": "36350_rapport.jpg",
+    "outputName": "36350.jpg",
+    "bytes": 409467,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36350.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36351",
+    "sourceName": "36351_rapport.jpg",
+    "outputName": "36351.jpg",
+    "bytes": 243493,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36351.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36352",
+    "sourceName": "36352_rapport.jpg",
+    "outputName": "36352.jpg",
+    "bytes": 380688,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36352.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36353",
+    "sourceName": "36353_rapport.jpg",
+    "outputName": "36353.jpg",
+    "bytes": 405787,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36353.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36354",
+    "sourceName": "36354_rapport.jpg",
+    "outputName": "36354.jpg",
+    "bytes": 287296,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36354.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36355",
+    "sourceName": "36355_rapport.jpg",
+    "outputName": "36355.jpg",
+    "bytes": 327399,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36355.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36356",
+    "sourceName": "36356_rapport.jpg",
+    "outputName": "36356.jpg",
+    "bytes": 294884,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36356.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36357",
+    "sourceName": "36357_rapport.jpg",
+    "outputName": "36357.jpg",
+    "bytes": 389921,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36357.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36358",
+    "sourceName": "36358_rapport.jpg",
+    "outputName": "36358.jpg",
+    "bytes": 325435,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36358.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36359",
+    "sourceName": "36359_rapport.jpg",
+    "outputName": "36359.jpg",
+    "bytes": 442465,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36359.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36360",
+    "sourceName": "36360_rapport.jpg",
+    "outputName": "36360.jpg",
+    "bytes": 358053,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36360.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36361",
+    "sourceName": "36361_rapport.jpg",
+    "outputName": "36361.jpg",
+    "bytes": 338347,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36361.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36362",
+    "sourceName": "36362_rapport.jpg",
+    "outputName": "36362.jpg",
+    "bytes": 334224,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36362.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36363",
+    "sourceName": "36363_rapport.jpg",
+    "outputName": "36363.jpg",
+    "bytes": 306302,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36363.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36364",
+    "sourceName": "36364_rapport.jpg",
+    "outputName": "36364.jpg",
+    "bytes": 389300,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36364.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36365",
+    "sourceName": "36365_rapport.jpg",
+    "outputName": "36365.jpg",
+    "bytes": 453447,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36365.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36366",
+    "sourceName": "36366_rapport.jpg",
+    "outputName": "36366.jpg",
+    "bytes": 619897,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36366.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36367",
+    "sourceName": "36367_rapport.jpg",
+    "outputName": "36367.jpg",
+    "bytes": 268748,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36367.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36368",
+    "sourceName": "36368_rapport.jpg",
+    "outputName": "36368.jpg",
+    "bytes": 317855,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36368.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36369",
+    "sourceName": "36369_rapport.jpg",
+    "outputName": "36369.jpg",
+    "bytes": 321915,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36369.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36370",
+    "sourceName": "36370_rapport.jpg",
+    "outputName": "36370.jpg",
+    "bytes": 329752,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36370.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36371",
+    "sourceName": "36371_rapport.jpg",
+    "outputName": "36371.jpg",
+    "bytes": 221912,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36371.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36372",
+    "sourceName": "36372_rapport.jpg",
+    "outputName": "36372.jpg",
+    "bytes": 282586,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36372.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36373",
+    "sourceName": "36373_rapport.jpg",
+    "outputName": "36373.jpg",
+    "bytes": 270653,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36373.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36374",
+    "sourceName": "36374_rapport.jpg",
+    "outputName": "36374.jpg",
+    "bytes": 284169,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36374.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36375",
+    "sourceName": "36375_rapport.jpg",
+    "outputName": "36375.jpg",
+    "bytes": 252915,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36375.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36376",
+    "sourceName": "36376_rapport.jpg",
+    "outputName": "36376.jpg",
+    "bytes": 286242,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36376.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36377",
+    "sourceName": "36377_rapport.jpg",
+    "outputName": "36377.jpg",
+    "bytes": 321376,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36377.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36378",
+    "sourceName": "36378_rapport.jpg",
+    "outputName": "36378.jpg",
+    "bytes": 317771,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36378.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36379",
+    "sourceName": "36379_rapport.jpg",
+    "outputName": "36379.jpg",
+    "bytes": 322738,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36379.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36380",
+    "sourceName": "36380_rapport.jpg",
+    "outputName": "36380.jpg",
+    "bytes": 331390,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36380.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36391",
+    "sourceName": "36391_rapport.jpg",
+    "outputName": "36391.jpg",
+    "bytes": 297482,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36391.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36392",
+    "sourceName": "36392_rapport.jpg",
+    "outputName": "36392.jpg",
+    "bytes": 394607,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36392.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36393",
+    "sourceName": "36393_rapport.jpg",
+    "outputName": "36393.jpg",
+    "bytes": 342623,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36393.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36394",
+    "sourceName": "36394_rapport.jpg",
+    "outputName": "36394.jpg",
+    "bytes": 428944,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36394.jpg"
+  },
+  {
+    "collection": "bloom",
+    "sku": "36395",
+    "sourceName": "36395_rapport.jpg",
+    "outputName": "36395.jpg",
+    "bytes": 429550,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/bloom/36395.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "IC 1013",
+    "sourceName": "IC 1013_rapport.jpg",
+    "outputName": "IC-1013.jpg",
+    "bytes": 600079,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/IC-1013.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "IC 1015",
+    "sourceName": "IC 1015_rapport.jpg",
+    "outputName": "IC-1015.jpg",
+    "bytes": 788482,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/IC-1015.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "IC 1017",
+    "sourceName": "IC 1017_rapport.jpg",
+    "outputName": "IC-1017.jpg",
+    "bytes": 241078,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/IC-1017.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 1018",
+    "sourceName": "LD 1018_rapport.jpg",
+    "outputName": "LD-1018.jpg",
+    "bytes": 468208,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-1018.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 1019",
+    "sourceName": "LD 1019_rapport.jpg",
+    "outputName": "LD-1019.jpg",
+    "bytes": 485993,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-1019.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 1020",
+    "sourceName": "LD 1020_rapport.jpg",
+    "outputName": "LD-1020.jpg",
+    "bytes": 551623,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-1020.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 1021",
+    "sourceName": "LD 1021_rapport.jpg",
+    "outputName": "LD-1021.jpg",
+    "bytes": 573657,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-1021.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2009",
+    "sourceName": "LD 2009_rapport.jpg",
+    "outputName": "LD-2009.jpg",
+    "bytes": 249958,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2009.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2015",
+    "sourceName": "LD 2015_rapport.jpg",
+    "outputName": "LD-2015.jpg",
+    "bytes": 259206,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2015.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2019",
+    "sourceName": "LD 2019_rapport.jpg",
+    "outputName": "LD-2019.jpg",
+    "bytes": 199719,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2019.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2103",
+    "sourceName": "LD 2103_rapport.jpg",
+    "outputName": "LD-2103.jpg",
+    "bytes": 652477,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2103.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2109",
+    "sourceName": "LD 2109_rapport.jpg",
+    "outputName": "LD-2109.jpg",
+    "bytes": 736451,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2109.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2113",
+    "sourceName": "LD 2113_rapport.jpg",
+    "outputName": "LD-2113.jpg",
+    "bytes": 1007996,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2113.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 2115",
+    "sourceName": "LD 2115_rapport.jpg",
+    "outputName": "LD-2115.jpg",
+    "bytes": 905929,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-2115.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3009",
+    "sourceName": "LD 3009_rapport.jpg",
+    "outputName": "LD-3009.jpg",
+    "bytes": 843436,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3009.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3015",
+    "sourceName": "LD 3015_rapport.jpg",
+    "outputName": "LD-3015.jpg",
+    "bytes": 954558,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3015.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3018",
+    "sourceName": "LD 3018_rapport.jpg",
+    "outputName": "LD-3018.jpg",
+    "bytes": 726763,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3018.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3020",
+    "sourceName": "LD 3020_rapport.jpg",
+    "outputName": "LD-3020.jpg",
+    "bytes": 768333,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3020.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3301",
+    "sourceName": "LD 3301_rapport.jpg",
+    "outputName": "LD-3301.jpg",
+    "bytes": 353829,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3301.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3309",
+    "sourceName": "LD 3309_rapport.jpg",
+    "outputName": "LD-3309.jpg",
+    "bytes": 419526,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3309.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3318",
+    "sourceName": "LD 3318_rapport.jpg",
+    "outputName": "LD-3318.jpg",
+    "bytes": 448983,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3318.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3320",
+    "sourceName": "LD 3320_rapport.jpg",
+    "outputName": "LD-3320.jpg",
+    "bytes": 429021,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3320.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3403",
+    "sourceName": "LD 3403_rapport.jpg",
+    "outputName": "LD-3403.jpg",
+    "bytes": 593804,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3403.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3413",
+    "sourceName": "LD 3413_rapport.jpg",
+    "outputName": "LD-3413.jpg",
+    "bytes": 668225,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3413.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3415",
+    "sourceName": "LD 3415_rapport.jpg",
+    "outputName": "LD-3415.jpg",
+    "bytes": 882356,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3415.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3418",
+    "sourceName": "LD 3418_rapport.jpg",
+    "outputName": "LD-3418.jpg",
+    "bytes": 599622,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3418.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3419",
+    "sourceName": "LD 3419_rapport.jpg",
+    "outputName": "LD-3419.jpg",
+    "bytes": 469583,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3419.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3421",
+    "sourceName": "LD 3421_rapport.jpg",
+    "outputName": "LD-3421.jpg",
+    "bytes": 745116,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3421.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3515",
+    "sourceName": "LD 3515_rapport.jpg",
+    "outputName": "LD-3515.jpg",
+    "bytes": 480834,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3515.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3519",
+    "sourceName": "LD 3519_rapport.jpg",
+    "outputName": "LD-3519.jpg",
+    "bytes": 1435241,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3519.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3615",
+    "sourceName": "LD 3615_rapport.jpg",
+    "outputName": "LD-3615.jpg",
+    "bytes": 413111,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3615.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3617",
+    "sourceName": "LD 3617_rapport.jpg",
+    "outputName": "LD-3617.jpg",
+    "bytes": 642611,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3617.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 3619",
+    "sourceName": "LD 3619_rapport.jpg",
+    "outputName": "LD-3619.jpg",
+    "bytes": 656535,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-3619.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 6001",
+    "sourceName": "LD 6001_rapport.jpg",
+    "outputName": "LD-6001.jpg",
+    "bytes": 587293,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-6001.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "LD 6101",
+    "sourceName": "LD 6101_rapport.jpg",
+    "outputName": "LD-6101.jpg",
+    "bytes": 372940,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/LD-6101.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "MN 1001",
+    "sourceName": "MN 1001_rapport.jpg",
+    "outputName": "MN-1001.jpg",
+    "bytes": 431515,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/MN-1001.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "MN 1002",
+    "sourceName": "MN 1002_rapport.jpg",
+    "outputName": "MN-1002.jpg",
+    "bytes": 554635,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/MN-1002.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "MN 1003",
+    "sourceName": "MN 1003_rapport.jpg",
+    "outputName": "MN-1003.jpg",
+    "bytes": 577455,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/MN-1003.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "MN 1009",
+    "sourceName": "MN 1009_rapport.jpg",
+    "outputName": "MN-1009.jpg",
+    "bytes": 547929,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/MN-1009.jpg"
+  },
+  {
+    "collection": "little-dreamers",
+    "sku": "MN 1011",
+    "sourceName": "MN 1011_rapport.jpg",
+    "outputName": "MN-1011.jpg",
+    "bytes": 530272,
+    "url": "https://raw.githubusercontent.com/ivansorokin93/oboi-import-01/main/little-dreamers/MN-1011.jpg"
   }
 ]
